@@ -101,11 +101,14 @@ if selected_question != "All":
 # Display candidate info if filtered
 if selected_candidate != "All":
     st.header(f"Candidate: {selected_candidate}")
-    candidate_email = df_filtered['email'].iloc[0]
-    st.subheader(f"Email: {candidate_email}")
+    if not df_filtered.empty:
+        candidate_email = df_filtered['email'].iloc[0]
+        st.subheader(f"Email: {candidate_email}")
+    else:
+        st.warning("No data found for this candidate and question selection.")
 
 # Create tabs for different views
-tab1, tab2, tab3 = st.tabs(["📈 Overall Scores", "🔍 Detailed Analysis", "📋 Raw Data"])
+tab1, tab2, tab3, tab4 = st.tabs(["📈 Overall Scores", "🔍 Detailed Analysis", "📋 Raw Data", "🎥 Video"])
 
 with tab1:
     # Calculate average scores by category
@@ -187,6 +190,33 @@ with tab3:
     # Raw data view
     st.header("Raw Data")
     st.dataframe(df_filtered)
+
+with tab4:
+    if selected_candidate != "All" and selected_question != "All":
+        # Get the video file name for the selected candidate and question
+        video_info = df_filtered[df_filtered['question'] == selected_question]
+        if not video_info.empty:
+            video_file_name = video_info['fileName'].iloc[0]
+            
+            # Try to find the video in both possible locations
+            video_paths = [
+                f"baker_mckenzie_video/{video_file_name}",
+            ]
+            
+            video_found = False
+            for video_path in video_paths:
+                try:
+                    st.video(video_path)
+                    video_found = True
+                    break
+                except:
+                    continue
+            
+            if not video_found:
+                st.warning(f"Video file not found for {selected_candidate}'s response to: {selected_question}")
+                st.info("Available video file name: " + video_file_name)
+    else:
+        st.info("Please select both a candidate and a question to view the video.")
 
 # Add footer
 st.markdown("---")
