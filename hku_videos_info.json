@@ -1,0 +1,1762 @@
+[
+  {
+    "firstName": "CHENXU",
+    "lastName": "WANG",
+    "email": "henrymagician@icloud.com",
+    "attemptId": "948e5210b668ecf253c2ff7e",
+    "s3Path": "s3://ai-interview-aiinterviewbucket-ekdgigsxg8fj/videos/Webm/7bcbb391-dff1-4b29-8958-299342845711.webm",
+    "presignedURL": "https://ai-interview-aiinterviewbucket-ekdgigsxg8fj.s3.ap-southeast-1.amazonaws.com/videos/Webm/7bcbb391-dff1-4b29-8958-299342845711.webm?response-content-disposition=inline&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAMZS7bLAo0HWb1TQpvsfQRwNqNoA6bMXtD8%2BTQ%2FNk3CxAiBVIcSq52mQXrjSBAW7PsVE6gtfPjV8%2BRqqRltrBJblpirWAwhFEAMaDDU1NzAwODgzMDI0NyIMBnSjE6hOxVTX0U5nKrMD0PdFeKbUU5xQngsjzm%2BmeAeP6d5D35LT8zMhgjIogxgI8xMl7g069ucjsmV0jzvJZqyv22nFVUe67l9WpvzwNXw92seoPoDz21DYOBA%2BbfstvCIpQ28d67cH0KoU%2B1HJh%2FLOkbvRefyu4F4YOeqUryynSDUryMqjP1xtSSn4qGuWCeEFD6wvrFNwiWR5%2FL%2BpACUIPyyqgwGH6DOPJa4NQih%2B09cLI2qRQ89WxX3ZLv8433pTnwdmWX9DFa1tOk85mx%2Bj5l3rs6zo2c0rjanfkCnr7xLcxl%2FkzP05Xrcw%2F%2FlBDIXgVkiecYg1qGORIlhneljOiHApWe8B7dZkAQbZ%2F4pzS4Nglh7Yzu%2BQpCSdXMX3jf2LCl1GmsqcAwo%2F%2Bt02%2BPt%2FAcMyy%2BDFEBxiQwi%2FucDRsrADpGc%2BgnXHA5uVClY9OIQ82kTke%2FZygb7FAHpIKT3kIvGMsz%2FMfhv%2BBBeVZnlQ9%2Bp6aXFwfz%2BefZbwhduYrz%2FK0nIGo96it9XM9CCmT%2FuP5LZ%2FZigf32TisjEfFl9jJ5IPewq6pYxgGY2g%2BFck%2FWJVTX3mbfmNRX5de4o6aFmPMN2inMEGOt4Cu5FhK9CItS1sfdoSyzZdlG1snYyWl98mNBOmH60oK80R3yZmbCylOcnYWcrq4Yk6EM8idrGrHMQmjFxKaEU1mVnfRgRZqT2OfDpUEny3LOh4dKJ5V1tV%2F3GVoghNnipT5xZ5YhuAfXuKuFprhsfyK1vqvEVrXy7E79A5b4iGTl8kfb0L0y81wXvfcvf7z1POYRqWY7JWvt4lRfQy8B6E1OOgLEJW5BhekfOz8KPX5Z8E8ESih5Yomoq3xQ%2FLfaW8ECagrLczb%2BNo4wINtXtmXy1dMThs9ctBfXoUdj%2BRWORO8rRXMqM1gZYP1%2BSoCNmcd33Gw%2FvCHUfCeHjmuOmNsq0T1zYbMq0TbdUopMQYBLNX0fH9VTIUxoQeUz%2Bfxlhxa%2FlK9JIFYGJKSKlH8tL7%2BgAbGo7It2dXq890bSU32U%2BDHGqG6ox7GtgXZtU8zh%2BLPC9Nu0maUiIEKNbfs%2Fs%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAYDMCQH4T5M2RN7F3%2F20250516%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20250516T112958Z&X-Amz-Expires=43200&X-Amz-SignedHeaders=host&X-Amz-Signature=2b6c1896be47b12eef71b401d416c047a77bbab0d6a17631ca57e917dcc71ec7",
+    "localPath": "C:\\Users\\fata-\\Documents\\personal\\AGA\\experiment-severe-weakness\\hku_videos\\7bcbb391-dff1-4b29-8958-299342845711.webm.webm",
+    "analysis": {
+      "visual": {
+        "attire": {
+          "justification": "The candidate's attire is a black hoodie, which is too casual for an interview setting. This gives the impression that the candidate did not put much effort into preparing for the interview.",
+          "score": 5
+        },
+        "background": {
+          "justification": "The background is a plain wall with an air conditioner and a cabinet. It's not overly distracting, but it's also not particularly professional or engaging. The framing is also a bit too tight, cutting off the top of the head.",
+          "score": 5
+        },
+        "videoQuality": {
+          "justification": "The video quality is poor due to the low resolution and the background noise. The framing is also not ideal, as the candidate's head is cut off at the top of the screen.",
+          "score": 5
+        },
+        "appearance": {
+          "justification": "The candidate's hair is unkempt and there is a distracting hair sticking up. This detracts from the overall professional appearance.",
+          "score": 6
+        },
+        "eyeContact": {
+          "justification": "The candidate rarely looks directly at the camera, often glancing down or to the side. This lack of eye contact makes it difficult to feel engaged with the candidate's response. [00:00:00] - [00:01:59]",
+          "score": 3
+        }
+      },
+      "audio": {
+        "delivery": {
+          "justification": "The candidate's speech delivery is monotone and lacks energy, making it difficult to stay engaged. There are also noticeable pauses and hesitations throughout the response, which disrupt the flow of the speech. The candidate also looks down frequently, which reduces the impact of the delivery.",
+          "score": 4
+        },
+        "pronunciation": {
+          "justification": "The candidate has a strong accent and mispronounces several words, such as \"fairly\" at [00:00:11], \"vital\" at [00:00:53], and \"fulfillment\" at [00:01:12].",
+          "score": 5
+        },
+        "accent": {
+          "justification": "The candidate's accent is very strong and significantly impacts comprehension. The pronunciation of several words is unclear, requiring extra effort to understand the meaning. This could be a barrier in professional settings where clear communication is essential.",
+          "score": 3
+        }
+      },
+      "content": {
+        "irrelevantResponses": {
+          "justification": "The candidate answers the question, but the response is somewhat repetitive and lacks a clear structure. The candidate also has some difficulty with grammar and word choice, which makes the response difficult to follow. The background noise is also distracting.",
+          "score": 6
+        },
+        "fillerWords": {
+          "justification": "The candidate uses filler words excessively throughout the response. Phrases like \"um,\" \"anyway,\" and repetitive use of \"I think\" and \"also\" disrupt the flow and clarity of the answer. The frequency of these filler words is more than 5 per sentence, making the response sound hesitant and unprepared. (e.g., 0:47, 1:34)",
+          "score": 2
+        },
+        "pauses": {
+          "justification": "The candidate has many pauses and filler words throughout the video. The pauses are often long and disruptive to the flow of the response. (0:10), (0:25), (0:47), (1:00), (1:17), (1:30), (1:44)",
+          "score": 3
+        },
+        "grammar": {
+          "justification": "The candidate's grammar and language skills are weak. There are frequent grammatical errors, incomplete sentences, and awkward phrasing throughout the response. Examples include incorrect verb tenses, missing articles, and unclear sentence structure. The candidate also struggles with word choice and pronunciation, which further detracts from the clarity and coherence of the response.",
+          "score": 3
+        },
+        "structure": {
+          "justification": "The response lacks a clear structure and wanders without a central point. The candidate struggles to articulate a coherent narrative, resulting in a disorganized and somewhat repetitive explanation. The response is difficult to follow and lacks a clear thesis or argument.",
+          "score": 3
+        }
+      },
+      "irregularities": {
+        "language": {
+          "justification": "The candidate's language consistency is good, with no major lapses into another language. Therefore, the candidate receives a score of 9.",
+          "score": 9
+        },
+        "behavior": {
+          "justification": "The candidate's response is coherent and relevant to the prompt. However, the background noise is distracting and the candidate's eye contact is poor, as he looks down frequently. These factors detract from the overall professionalism of the video. ",
+          "score": 6
+        },
+        "videoIrregularities": {
+          "justification": "The audio has a lot of background noise, and the video quality is not great. The candidate also looks down a lot, which is not ideal for an interview. The candidate also uses a lot of filler words, such as \"um\" and \"uh.\" The candidate also repeats himself a lot.",
+          "score": 5
+        },
+        "aiCheating": {
+          "justification": "The candidate's response is overly verbose and repetitive, using similar phrasing multiple times to convey the same idea. The vocabulary and sentence structure are simple, yet the candidate attempts to use complex words like \"fulfillment\" and \"vital\" without fully grasping their context, leading to awkward phrasing. The response lacks a clear structure and wanders aimlessly, suggesting a lack of original thought and reliance on AI-generated content.",
+          "score": 3
+        }
+      }
+    },
+    "question": "What cultural tradition or belief is important to you and why?"
+  },
+  {
+    "firstName": "XIYU",
+    "lastName": "WEN",
+    "email": "372702256@qq.com",
+    "attemptId": "0c5fe7fc9d2b114e1825aa03",
+    "s3Path": "s3://ai-interview-aiinterviewbucket-ekdgigsxg8fj/videos/Webm/7e621dce-f9da-4026-a66b-86702a178680.webm",
+    "presignedURL": "https://ai-interview-aiinterviewbucket-ekdgigsxg8fj.s3.ap-southeast-1.amazonaws.com/videos/Webm/7e621dce-f9da-4026-a66b-86702a178680.webm?response-content-disposition=inline&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAMZS7bLAo0HWb1TQpvsfQRwNqNoA6bMXtD8%2BTQ%2FNk3CxAiBVIcSq52mQXrjSBAW7PsVE6gtfPjV8%2BRqqRltrBJblpirWAwhFEAMaDDU1NzAwODgzMDI0NyIMBnSjE6hOxVTX0U5nKrMD0PdFeKbUU5xQngsjzm%2BmeAeP6d5D35LT8zMhgjIogxgI8xMl7g069ucjsmV0jzvJZqyv22nFVUe67l9WpvzwNXw92seoPoDz21DYOBA%2BbfstvCIpQ28d67cH0KoU%2B1HJh%2FLOkbvRefyu4F4YOeqUryynSDUryMqjP1xtSSn4qGuWCeEFD6wvrFNwiWR5%2FL%2BpACUIPyyqgwGH6DOPJa4NQih%2B09cLI2qRQ89WxX3ZLv8433pTnwdmWX9DFa1tOk85mx%2Bj5l3rs6zo2c0rjanfkCnr7xLcxl%2FkzP05Xrcw%2F%2FlBDIXgVkiecYg1qGORIlhneljOiHApWe8B7dZkAQbZ%2F4pzS4Nglh7Yzu%2BQpCSdXMX3jf2LCl1GmsqcAwo%2F%2Bt02%2BPt%2FAcMyy%2BDFEBxiQwi%2FucDRsrADpGc%2BgnXHA5uVClY9OIQ82kTke%2FZygb7FAHpIKT3kIvGMsz%2FMfhv%2BBBeVZnlQ9%2Bp6aXFwfz%2BefZbwhduYrz%2FK0nIGo96it9XM9CCmT%2FuP5LZ%2FZigf32TisjEfFl9jJ5IPewq6pYxgGY2g%2BFck%2FWJVTX3mbfmNRX5de4o6aFmPMN2inMEGOt4Cu5FhK9CItS1sfdoSyzZdlG1snYyWl98mNBOmH60oK80R3yZmbCylOcnYWcrq4Yk6EM8idrGrHMQmjFxKaEU1mVnfRgRZqT2OfDpUEny3LOh4dKJ5V1tV%2F3GVoghNnipT5xZ5YhuAfXuKuFprhsfyK1vqvEVrXy7E79A5b4iGTl8kfb0L0y81wXvfcvf7z1POYRqWY7JWvt4lRfQy8B6E1OOgLEJW5BhekfOz8KPX5Z8E8ESih5Yomoq3xQ%2FLfaW8ECagrLczb%2BNo4wINtXtmXy1dMThs9ctBfXoUdj%2BRWORO8rRXMqM1gZYP1%2BSoCNmcd33Gw%2FvCHUfCeHjmuOmNsq0T1zYbMq0TbdUopMQYBLNX0fH9VTIUxoQeUz%2Bfxlhxa%2FlK9JIFYGJKSKlH8tL7%2BgAbGo7It2dXq890bSU32U%2BDHGqG6ox7GtgXZtU8zh%2BLPC9Nu0maUiIEKNbfs%2Fs%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAYDMCQH4T5M2RN7F3%2F20250516%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20250516T112859Z&X-Amz-Expires=43200&X-Amz-SignedHeaders=host&X-Amz-Signature=d4b03e3005cd82ffec0797d21ca47a2f912bdd9bf5727cbf2aa5ff711b359842",
+    "localPath": "C:\\Users\\fata-\\Documents\\personal\\AGA\\experiment-severe-weakness\\hku_videos\\7e621dce-f9da-4026-a66b-86702a178680.webm.webm",
+    "analysis": {
+      "visual": {
+        "attire": {
+          "justification": "The candidate is wearing a hoodie, which is too casual for an interview setting. This gives the impression that the candidate did not put much effort into preparing for the interview.",
+          "score": 5
+        },
+        "background": {
+          "justification": "The background is a plain white wall, but there's a ladder and a blue bag visible, which are slightly distracting. The framing is also a bit too high, cutting off the top of the head.",
+          "score": 6
+        },
+        "videoQuality": {
+          "justification": "The video quality is poor. The camera is shaky at the beginning, and the lighting is not ideal, making the image appear washed out. The background is also distracting.",
+          "score": 5
+        },
+        "appearance": {
+          "justification": "The candidate's appearance is casual, but not unprofessional. The hair is a bit unkempt, and the hoodie is not ideal for an interview setting. However, it's not a critical issue.",
+          "score": 7
+        },
+        "eyeContact": {
+          "justification": "The candidate struggles to maintain eye contact, frequently looking away from the camera. This lack of engagement could be perceived as disinterest or nervousness. (0:09-0:11, 0:24-0:25, 0:37-0:38, 0:51-0:52, 1:01-1:02, 1:16-1:17, 1:32-1:33)",
+          "score": 5
+        }
+      },
+      "audio": {
+        "delivery": {
+          "justification": "The candidate's speech delivery is monotone and lacks engagement. There are also several instances of filler words and pauses, such as at [00:00:09], [00:00:18], [00:01:01], and [00:01:23], which disrupt the flow of speech and make it difficult to follow the candidate's train of thought.",
+          "score": 3
+        },
+        "pronunciation": {
+          "justification": "The candidate's pronunciation is unclear and hesitant, with frequent pauses and filler words. This significantly impacts the clarity and flow of their speech, making it difficult to understand their message effectively. The candidate also has a strong accent that makes it difficult to understand them.",
+          "score": 3
+        },
+        "accent": {
+          "justification": "The candidate's accent is very strong and significantly impacts comprehension. There are frequent pauses and hesitations, and the pronunciation of certain words is unclear, making it difficult to follow the flow of the response.",
+          "score": 3
+        }
+      },
+      "content": {
+        "irrelevantResponses": {
+          "justification": "The candidate's response is somewhat relevant, but it lacks depth and clarity. The candidate mentions the influence of her parents and the support they provided, but she doesn't elaborate on specific aspects of her upbringing that shaped her personality or character. The response is also somewhat disorganized and lacks a clear structure.",
+          "score": 6
+        },
+        "fillerWords": {
+          "justification": "The candidate uses filler words such as \"well\", \"I think\", \"and\", and \"so\" excessively throughout the response. This makes the response sound less confident and more hesitant. The candidate also pauses frequently, which further detracts from the overall quality of the response. The candidate uses filler words in almost every sentence.",
+          "score": 3
+        },
+        "pauses": {
+          "justification": "The candidate has several long pauses throughout the interview, which disrupts the flow of the interview. The candidate also uses filler words such as \"well\" and \"and\" which also disrupts the flow of the interview. [00:00:09], [00:00:18], [00:01:01], [00:01:23]",
+          "score": 4
+        },
+        "grammar": {
+          "justification": "The candidate's grammar and language skills are weak. There are frequent pauses, filler words, and incomplete sentences. The candidate struggles to express her thoughts clearly and concisely, which affects the overall quality of her response. For example, at [00:00:10] the candidate says \"Well, I think I am the way that I were raised.\" At [00:00:57] the candidate says \"And enhance my... enhance my learning ability.\"",
+          "score": 4
+        },
+        "structure": {
+          "justification": "The response is somewhat disorganized and repetitive. The candidate struggles to articulate a clear and concise answer, often using filler words and phrases. The response lacks a clear structure and jumps between different points without a logical flow. The candidate also struggles to find the right words, leading to pauses and incomplete sentences. Timestamp: [00:00:09], [00:00:18], [00:00:57], [00:01:06]",
+          "score": 5
+        }
+      },
+      "irregularities": {
+        "language": {
+          "justification": "The candidate's English is not fluent, with frequent pauses and hesitations. She struggles to articulate her thoughts clearly, often using filler words and incomplete sentences. Her vocabulary is limited, and she struggles to find the right words to express herself effectively. The candidate's language skills significantly hinder her ability to communicate her ideas and experiences effectively. [00:00:09], [00:00:57], [00:01:06]",
+          "score": 3
+        },
+        "behavior": {
+          "justification": "The candidate's response is somewhat vague and lacks specific examples. She also uses filler words like \"well\" and \"and uh\" frequently, which can detract from her credibility. At [00:00:24], a timer goes off, which is distracting and unprofessional.",
+          "score": 6
+        },
+        "videoIrregularities": {
+          "justification": "The candidate's response is somewhat vague and lacks specific examples. There are also several pauses and filler words, such as \"well\" and \"and uh,\" which detract from the clarity and impact of the response. [00:00:09], [00:00:18], [00:00:57], [00:01:01], [00:01:09], [00:01:23], [00:01:26]",
+          "score": 6
+        },
+        "aiCheating": {
+          "justification": "The candidate's response is somewhat vague and lacks specific examples. There are also several instances of filler words and pauses, suggesting a lack of preparation or difficulty in articulating thoughts clearly. The vocabulary used is basic, and the sentence structure is simple, which raises concerns about the depth of understanding and communication skills. The candidate also seems to struggle to find the right words at times, leading to hesitation and repetition. The overall impression is that the response is not well-structured or thought out, and the candidate may be relying on AI assistance to some extent. [00:00:09], [00:00:57], [00:01:06]",
+          "score": 5
+        }
+      }
+    },
+    "question": "Are you the way you are because you were born that way, or because of the way you were raised?"
+  },
+  {
+    "firstName": "YIMING",
+    "lastName": "DAN",
+    "email": "mrhbdhb@126.com",
+    "attemptId": "e56c3e9da13c5ac5886c5aff",
+    "s3Path": "s3://ai-interview-aiinterviewbucket-ekdgigsxg8fj/videos/Webm/74cc69e6-744b-407d-9579-a2e33e906c93.webm",
+    "presignedURL": "https://ai-interview-aiinterviewbucket-ekdgigsxg8fj.s3.ap-southeast-1.amazonaws.com/videos/Webm/74cc69e6-744b-407d-9579-a2e33e906c93.webm?response-content-disposition=inline&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLXNvdXRoZWFzdC0xIkcwRQIhANYqgLTME8hEol9OR7kQenM%2FicKU5szNMT%2Bzoeu%2FULDAAiBA3AmXHOKLusmyL0ynRlyjdPL9blV0F%2BCbnyRyUmWgaCrWAwhFEAMaDDU1NzAwODgzMDI0NyIMbZOTZ5TBoN29HawgKrMD1K9U%2Fao8jrVXoRjzN5GE3YgyW3Emh7x0SeVJ7fHLz6dViUDfjfL2KIhaxT0VLBOTuXht%2FlAGJPzo7VE%2Bsme%2FyiG5W85IwFO3NZvmdnxoHjM4PR6%2BBasheulrDzS%2FJ6CtniPgF8FalTAcHgdTrkU7SeQkdGLAMB1tCfjovbp8opVK182dYYKnABB%2FEF35T8R6YfsQvqRNiNISIZR2BiFnd51o%2FTDcjnon1pUWkQyeEnf%2Fh98Wu4yK7S0sr%2Fm6YFl0MItc4SHtQYhtweOPH%2FHvRvgxszCPHbcB405%2F91%2FU%2B9UktXgyV3fNWilc2s41Hhvf5r3xXP7lD2DRIedRJ%2Bs4EtIXaGdleoaSRIsYqFqAqMmmE4vKf12PRi0Pia5COBykcSJDCJkDgMoogpCP83yWNsoBlbrQ0m9BZxOgK3sS21McfZaIKGDokMlEefKX3DJx9B6a5x92IOsHqRKIFEIKzqUMqYhewc%2FsWfYQmoASXK2SHWkO3tp2J48tt%2Fcj%2BMqF7m4hOK1DlQghAaivn2XgoimaIFj5Z4vbP5Ns0QHU%2FtcygXDB%2BBmmNG6TIHLY12Az3rkfMN2inMEGOt4CRd4NM445gzwlnW9ZQE%2BJE0otqGQdh6wkbmhG0WKsSms43Le1ym7aR%2FPbqk0%2BLuDk8VBkMRMO6he14b52ts2JtqgGMKunTKkOiG8%2BsbRbd2G3jWJ%2BexChzWXAtiSnKzaBTbrG%2Brm%2BfCwmO3iPhagn%2BviY8a3FNWZ%2FlQJa%2FfUy0hYdxl%2Fz2J%2BNUoAS%2F7LzBeGo9kn%2BzzySWfOUyHd5LMCVa3bCqayToRUxqI0NfVo3eV8jpM3%2BLnBHhkoiPj9eP7SpFYtPIT%2FfhbTwqAkKCa6ICcrHUQP4SoFtlFjC8qq%2FA6q5jFMBOhnfkbq0PxMpSPfMOuoHSbJmTAER9Or%2BYbcdqpOHC%2FIr5Y6Yk7eI1bY4f5CgvZXGrogVrVzVtDerAmbbnxmyLNmBI%2BVJki6XctsYCQ%2FIQSzv9k4WJaQ52UTL5gIk5mQ2YdOUE%2FovBJP51pg9nXtqgjvDqeHagS1vIzQ%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAYDMCQH4TZXSXJ2H6%2F20250516%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20250516T114155Z&X-Amz-Expires=43200&X-Amz-SignedHeaders=host&X-Amz-Signature=5c51645a976f5a64eb746920efad3d5ca7e24bc9a1d0ff3d7ef9b59922191cc1",
+    "localPath": "C:\\Users\\fata-\\Documents\\personal\\AGA\\experiment-severe-weakness\\hku_videos\\74cc69e6-744b-407d-9579-a2e33e906c93.webm.webm",
+    "analysis": {
+      "visual": {
+        "attire": {
+          "justification": "The candidate is wearing a hoodie, which is too casual for an interview setting. While not a critical issue, it does detract from the overall professionalism.",
+          "score": 7
+        },
+        "background": {
+          "justification": "The background is a plain white wall with an air conditioning unit and some pipes. It's not inherently distracting, but it's also not particularly professional or visually appealing. The framing is also too high, cutting off the top of the candidate's head.",
+          "score": 5
+        },
+        "videoQuality": {
+          "justification": "The video quality is poor. The framing is too high, showing mostly the ceiling. The lighting is also not ideal, making it difficult to see the candidate clearly.",
+          "score": 4
+        },
+        "appearance": {
+          "justification": "The candidate's appearance is not professional. He is wearing a hoodie, and the background is a plain white wall with an air conditioner. This does not convey a professional image.",
+          "score": 5
+        },
+        "eyeContact": {
+          "justification": "The candidate rarely makes eye contact with the camera, frequently looking down or to the side. This lack of engagement significantly detracts from the interview's effectiveness. [00:00:01] - [00:01:57]",
+          "score": 2
+        }
+      },
+      "audio": {
+        "delivery": {
+          "justification": "The candidate's speech delivery is monotone and lacks energy, making it difficult to maintain engagement. There are also noticeable pauses and hesitations throughout the response, which further detract from the clarity and impact of the message.",
+          "score": 3
+        },
+        "pronunciation": {
+          "justification": "The candidate's pronunciation is not clear. There are many mispronunciations that hinder understanding. For example, at [00:00:06], the candidate mispronounces \"sustainability\". At [00:00:21], the candidate mispronounces \"environmental\". At [00:00:34], the candidate mispronounces \"technological\".",
+          "score": 3
+        },
+        "accent": {
+          "justification": "The candidate's accent significantly impacts comprehension. There are frequent pauses and hesitations, and the pronunciation of certain words is unclear, making it difficult to follow the argument without significant effort. [00:00:10], [00:00:20], [00:00:30], [00:01:15]",
+          "score": 3
+        }
+      },
+      "content": {
+        "irrelevantResponses": {
+          "justification": "The candidate attempts to answer the question, but struggles to articulate a clear and concise relationship between economic development and environmental sustainability. The response is somewhat disorganized and lacks specific examples or a strong thesis. The candidate also struggles with language and pauses frequently.",
+          "score": 5
+        },
+        "fillerWords": {
+          "justification": "The candidate uses filler words such as \"well\", \"uh\", and \"so\" excessively throughout the response. The candidate also has a lot of pauses and struggles to articulate the response. [00:00:01], [00:00:10], [00:00:25], [00:00:37], [00:01:14], [00:01:46]",
+          "score": 2
+        },
+        "pauses": {
+          "justification": "The candidate has several long pauses throughout the response, disrupting the flow and making it difficult to follow the argument. For example, there is a noticeable pause at [00:00:25] and [00:01:14] where the candidate seems to be searching for the right words or ideas.",
+          "score": 5
+        },
+        "grammar": {
+          "justification": "The candidate's grammar and language skills are weak. There are frequent pauses, hesitations, and filler words like \"uh\" and \"um.\" The sentence structure is often unclear, and the candidate struggles to express their ideas fluently. There are also some grammatical errors, such as incorrect verb tenses and subject-verb agreement. For example, at [00:00:10], the candidate says \"From for one hand,\" which is grammatically incorrect. At [00:00:20], the candidate says \"contribute to our environmental protection,\" which is not a complete sentence. At [00:01:23], the candidate says \"in the 19th century in the 18th centuries,\" which is confusing and grammatically incorrect.",
+          "score": 3
+        },
+        "structure": {
+          "justification": "The response lacks a clear structure and jumps between ideas without proper transitions. The candidate struggles to articulate a coherent argument, resulting in a disorganized and confusing presentation. The example provided is vague and doesn't effectively support the main point.",
+          "score": 4
+        }
+      },
+      "irregularities": {
+        "language": {
+          "justification": "The candidate's language skills are very poor. He struggles to articulate his thoughts clearly in English, with frequent pauses, hesitations, and grammatical errors. His vocabulary is limited, and he often uses incorrect word choices, making it difficult to understand his points. For example, at [00:00:10], he says \"from for one hand\" instead of \"on one hand\". At [00:00:20], he says \"contribute to our environmental protection\" instead of \"contribute to environmental protection\". At [00:01:36], he says \"the health of people in London are very weak\" instead of \"the health of people in London is very weak\".",
+          "score": 2
+        },
+        "behavior": {
+          "justification": "The candidate's response is somewhat disorganized and lacks clear structure. He struggles to articulate his points effectively, often pausing and using filler words like \"uhm\" and \"so.\" Additionally, his example about London in the 18th century is not clearly connected to the main point, making it difficult to follow his reasoning. The candidate also appears to be reading from notes, which detracts from the natural flow of the conversation. [00:00:10] [00:00:30] [00:01:15] [00:01:30]",
+          "score": 5
+        },
+        "videoIrregularities": {
+          "justification": "The candidate's response is somewhat disorganized and lacks clear structure. There are several pauses and hesitations throughout the response, and the candidate struggles to articulate their thoughts effectively. The candidate's example of London in the 18th century is not clearly explained and does not fully support the candidate's argument. [00:00:10] [00:00:30] [00:01:14] [00:01:33]",
+          "score": 5
+        },
+        "aiCheating": {
+          "justification": "The candidate's response is filled with filler words and lacks a clear, concise structure. The vocabulary used is basic, and the examples provided are vague and lack depth. The candidate struggles to articulate their thoughts effectively, leading to a disjointed and unconvincing answer. The candidate's response is not well-structured and lacks a clear thesis statement. The candidate's response is not well-organized and lacks a clear flow of ideas. The candidate's response is not well-supported with evidence or examples. The candidate's response is not well-reasoned and lacks a clear line of argument. The candidate's response is not well-written and contains grammatical errors and awkward phrasing. The candidate's response is not well-delivered and lacks confidence and enthusiasm. The candidate's response is not well-prepared and lacks depth of knowledge.",
+          "score": 2
+        }
+      }
+    },
+    "question": "What is the relationship between economic development and environmental sustainability?"
+  },
+  {
+    "firstName": "LEYANG",
+    "lastName": "HU",
+    "email": "974554619@qq.com",
+    "attemptId": "cf30c7b144720187d144ff3f",
+    "s3Path": "s3://ai-interview-aiinterviewbucket-ekdgigsxg8fj/videos/Webm/11979866-7e97-4c3d-a94b-63fca18ee1f6.webm",
+    "presignedURL": "https://ai-interview-aiinterviewbucket-ekdgigsxg8fj.s3.ap-southeast-1.amazonaws.com/videos/Webm/11979866-7e97-4c3d-a94b-63fca18ee1f6.webm?response-content-disposition=inline&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAMZS7bLAo0HWb1TQpvsfQRwNqNoA6bMXtD8%2BTQ%2FNk3CxAiBVIcSq52mQXrjSBAW7PsVE6gtfPjV8%2BRqqRltrBJblpirWAwhFEAMaDDU1NzAwODgzMDI0NyIMBnSjE6hOxVTX0U5nKrMD0PdFeKbUU5xQngsjzm%2BmeAeP6d5D35LT8zMhgjIogxgI8xMl7g069ucjsmV0jzvJZqyv22nFVUe67l9WpvzwNXw92seoPoDz21DYOBA%2BbfstvCIpQ28d67cH0KoU%2B1HJh%2FLOkbvRefyu4F4YOeqUryynSDUryMqjP1xtSSn4qGuWCeEFD6wvrFNwiWR5%2FL%2BpACUIPyyqgwGH6DOPJa4NQih%2B09cLI2qRQ89WxX3ZLv8433pTnwdmWX9DFa1tOk85mx%2Bj5l3rs6zo2c0rjanfkCnr7xLcxl%2FkzP05Xrcw%2F%2FlBDIXgVkiecYg1qGORIlhneljOiHApWe8B7dZkAQbZ%2F4pzS4Nglh7Yzu%2BQpCSdXMX3jf2LCl1GmsqcAwo%2F%2Bt02%2BPt%2FAcMyy%2BDFEBxiQwi%2FucDRsrADpGc%2BgnXHA5uVClY9OIQ82kTke%2FZygb7FAHpIKT3kIvGMsz%2FMfhv%2BBBeVZnlQ9%2Bp6aXFwfz%2BefZbwhduYrz%2FK0nIGo96it9XM9CCmT%2FuP5LZ%2FZigf32TisjEfFl9jJ5IPewq6pYxgGY2g%2BFck%2FWJVTX3mbfmNRX5de4o6aFmPMN2inMEGOt4Cu5FhK9CItS1sfdoSyzZdlG1snYyWl98mNBOmH60oK80R3yZmbCylOcnYWcrq4Yk6EM8idrGrHMQmjFxKaEU1mVnfRgRZqT2OfDpUEny3LOh4dKJ5V1tV%2F3GVoghNnipT5xZ5YhuAfXuKuFprhsfyK1vqvEVrXy7E79A5b4iGTl8kfb0L0y81wXvfcvf7z1POYRqWY7JWvt4lRfQy8B6E1OOgLEJW5BhekfOz8KPX5Z8E8ESih5Yomoq3xQ%2FLfaW8ECagrLczb%2BNo4wINtXtmXy1dMThs9ctBfXoUdj%2BRWORO8rRXMqM1gZYP1%2BSoCNmcd33Gw%2FvCHUfCeHjmuOmNsq0T1zYbMq0TbdUopMQYBLNX0fH9VTIUxoQeUz%2Bfxlhxa%2FlK9JIFYGJKSKlH8tL7%2BgAbGo7It2dXq890bSU32U%2BDHGqG6ox7GtgXZtU8zh%2BLPC9Nu0maUiIEKNbfs%2Fs%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAYDMCQH4T5M2RN7F3%2F20250516%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20250516T113051Z&X-Amz-Expires=43200&X-Amz-SignedHeaders=host&X-Amz-Signature=3e5b1104c8d919dc53f1ab67f7997f0420e9581e96e29aaf8c343e748f1a0a7e",
+    "localPath": "C:\\Users\\fata-\\Documents\\personal\\AGA\\experiment-severe-weakness\\hku_videos\\11979866-7e97-4c3d-a94b-63fca18ee1f6.webm.webm",
+    "analysis": {
+      "visual": {
+        "attire": {
+          "justification": "The candidate is wearing a hoodie, which is too casual for an interview setting. This attire choice lacks professionalism and could be perceived as disrespectful.",
+          "score": 3
+        },
+        "background": {
+          "justification": "The background is cluttered with books and other items, and the lighting is poor, making it difficult to see the candidate clearly. The framing is also not ideal, as the candidate is not centered in the frame.",
+          "score": 3
+        },
+        "videoQuality": {
+          "justification": "The video has poor lighting, making it difficult to see the candidate clearly. The framing is also not ideal, as the candidate is not centered in the frame and there is too much headroom. The background is cluttered and distracting.",
+          "score": 5
+        },
+        "appearance": {
+          "justification": "The candidate's appearance is not professional. He is wearing a casual hoodie, and the background is cluttered. This gives the impression that he did not take the interview seriously.",
+          "score": 4
+        },
+        "eyeContact": {
+          "justification": "The candidate rarely looks directly at the camera, frequently glancing down or to the side. This lack of eye contact makes it difficult to feel engaged with the candidate's response. The candidate is looking away for >70% of the time.",
+          "score": 2
+        }
+      },
+      "audio": {
+        "delivery": {
+          "justification": "The candidate's speech delivery is monotone and lacks energy, making it difficult to maintain engagement. There are also noticeable pauses and hesitations throughout the response, which further detract from the overall clarity and impact of the message.",
+          "score": 3
+        },
+        "pronunciation": {
+          "justification": "The candidate's pronunciation is heavily accented and unclear, making it difficult to understand the content of the response. There are frequent mispronunciations and hesitations that significantly hinder comprehension.",
+          "score": 3
+        },
+        "accent": {
+          "justification": "The candidate's accent is very strong and significantly impacts comprehension. The pronunciation of several words is unclear, requiring significant effort to understand the content. This could be a barrier to effective communication in a professional setting.",
+          "score": 2
+        }
+      },
+      "content": {
+        "irrelevantResponses": {
+          "justification": "The candidate provides a comprehensive overview of factors contributing to a country's wealth, including population, natural resources, historical context, national policies, and the influence of notable figures. The response is highly relevant and addresses the question directly.",
+          "score": 9
+        },
+        "fillerWords": {
+          "justification": "The candidate uses filler words excessively throughout the interview. In almost every sentence, there are multiple instances of \"I mean\", \"well\", \"such as\", and \"and also\". This makes the candidate sound unprepared and unsure of their answers. The excessive use of filler words distracts from the content of the response and makes it difficult to follow the candidate's train of thought. The candidate also uses \"uh\" and \"um\" frequently, which further detracts from the professionalism of the interview.",
+          "score": 2
+        },
+        "pauses": {
+          "justification": "The candidate has a lot of pauses and filler words throughout the interview. The candidate also seems to be thinking about what to say next, which makes the interview feel less natural. The candidate also has a lot of \"um\" and \"uh\" sounds, which can be distracting.",
+          "score": 4
+        },
+        "grammar": {
+          "justification": "The candidate's grammar and language skills are weak. There are frequent grammatical errors, awkward phrasing, and incomplete sentences throughout the response. For example, the candidate uses \"such like\" instead of \"such as\" at [00:00:17]. The candidate also uses \"I mean\" frequently as a filler word, which detracts from the clarity and professionalism of the response. The candidate also uses \"noted of some noted person\" at [00:01:21].",
+          "score": 3
+        },
+        "structure": {
+          "justification": "The response lacks a clear structure and wanders into irrelevant historical and political commentary. The candidate struggles to maintain a coherent line of reasoning, jumping between different factors without a clear connection or purpose. The inclusion of President Mao and the Anti-Japanese War is particularly out of place and detracts from the overall coherence of the response. The response is disorganized and difficult to follow.",
+          "score": 3
+        }
+      },
+      "irregularities": {
+        "language": {
+          "justification": "The candidate's language consistency is poor. He speaks English throughout the video, but his accent and grammar are not good. He also uses filler words like \"I mean\" and \"well\" frequently, which makes his speech sound less polished. The candidate's language consistency is poor. He speaks English throughout the video, but his accent and grammar are not good. He also uses filler words like \"I mean\" and \"well\" frequently, which makes his speech sound less polished.",
+          "score": 5
+        },
+        "behavior": {
+          "justification": "The candidate's attire is too casual for an interview setting. Additionally, the candidate's reference to President Mao is inappropriate and potentially offensive, demonstrating a lack of awareness of cultural sensitivities and professional boundaries. [00:00:00] - [00:01:59]",
+          "score": 3
+        },
+        "videoIrregularities": {
+          "justification": "The candidate's response is overly verbose and lacks focus. The candidate also appears to be reading from a script, which detracts from the authenticity of the response. The candidate also makes a controversial statement about President Mao. [00:00:01]",
+          "score": 4
+        },
+        "aiCheating": {
+          "justification": "The candidate's response is overly verbose and uses complex vocabulary that seems mismatched with their apparent proficiency. The response also lacks a clear structure and wanders into irrelevant historical details, raising suspicion of AI assistance.",
+          "score": 3
+        }
+      }
+    },
+    "question": "What makes some countries rich and others poor?"
+  },
+  {
+    "firstName": "JUNJIE",
+    "lastName": "WEI",
+    "email": "15955336677@139.com",
+    "attemptId": "f4ab66b8e86e4c8285f999b0",
+    "s3Path": "s3://ai-interview-aiinterviewbucket-ekdgigsxg8fj/videos/Webm/77ec306b-3019-4954-b0c5-1194e3a46cf2.webm",
+    "presignedURL": "https://ai-interview-aiinterviewbucket-ekdgigsxg8fj.s3.ap-southeast-1.amazonaws.com/videos/Webm/77ec306b-3019-4954-b0c5-1194e3a46cf2.webm?response-content-disposition=inline&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAMZS7bLAo0HWb1TQpvsfQRwNqNoA6bMXtD8%2BTQ%2FNk3CxAiBVIcSq52mQXrjSBAW7PsVE6gtfPjV8%2BRqqRltrBJblpirWAwhFEAMaDDU1NzAwODgzMDI0NyIMBnSjE6hOxVTX0U5nKrMD0PdFeKbUU5xQngsjzm%2BmeAeP6d5D35LT8zMhgjIogxgI8xMl7g069ucjsmV0jzvJZqyv22nFVUe67l9WpvzwNXw92seoPoDz21DYOBA%2BbfstvCIpQ28d67cH0KoU%2B1HJh%2FLOkbvRefyu4F4YOeqUryynSDUryMqjP1xtSSn4qGuWCeEFD6wvrFNwiWR5%2FL%2BpACUIPyyqgwGH6DOPJa4NQih%2B09cLI2qRQ89WxX3ZLv8433pTnwdmWX9DFa1tOk85mx%2Bj5l3rs6zo2c0rjanfkCnr7xLcxl%2FkzP05Xrcw%2F%2FlBDIXgVkiecYg1qGORIlhneljOiHApWe8B7dZkAQbZ%2F4pzS4Nglh7Yzu%2BQpCSdXMX3jf2LCl1GmsqcAwo%2F%2Bt02%2BPt%2FAcMyy%2BDFEBxiQwi%2FucDRsrADpGc%2BgnXHA5uVClY9OIQ82kTke%2FZygb7FAHpIKT3kIvGMsz%2FMfhv%2BBBeVZnlQ9%2Bp6aXFwfz%2BefZbwhduYrz%2FK0nIGo96it9XM9CCmT%2FuP5LZ%2FZigf32TisjEfFl9jJ5IPewq6pYxgGY2g%2BFck%2FWJVTX3mbfmNRX5de4o6aFmPMN2inMEGOt4Cu5FhK9CItS1sfdoSyzZdlG1snYyWl98mNBOmH60oK80R3yZmbCylOcnYWcrq4Yk6EM8idrGrHMQmjFxKaEU1mVnfRgRZqT2OfDpUEny3LOh4dKJ5V1tV%2F3GVoghNnipT5xZ5YhuAfXuKuFprhsfyK1vqvEVrXy7E79A5b4iGTl8kfb0L0y81wXvfcvf7z1POYRqWY7JWvt4lRfQy8B6E1OOgLEJW5BhekfOz8KPX5Z8E8ESih5Yomoq3xQ%2FLfaW8ECagrLczb%2BNo4wINtXtmXy1dMThs9ctBfXoUdj%2BRWORO8rRXMqM1gZYP1%2BSoCNmcd33Gw%2FvCHUfCeHjmuOmNsq0T1zYbMq0TbdUopMQYBLNX0fH9VTIUxoQeUz%2Bfxlhxa%2FlK9JIFYGJKSKlH8tL7%2BgAbGo7It2dXq890bSU32U%2BDHGqG6ox7GtgXZtU8zh%2BLPC9Nu0maUiIEKNbfs%2Fs%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAYDMCQH4T5M2RN7F3%2F20250516%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20250516T113130Z&X-Amz-Expires=43200&X-Amz-SignedHeaders=host&X-Amz-Signature=4b499ce9400a1f3805423c16869c4c7dd2ce83888ac080a06f0ab987754f020a",
+    "localPath": "C:\\Users\\fata-\\Documents\\personal\\AGA\\experiment-severe-weakness\\hku_videos\\77ec306b-3019-4954-b0c5-1194e3a46cf2.webm.webm",
+    "analysis": {
+      "visual": {
+        "attire": {
+          "justification": "The candidate is wearing a black sweater over a white collared shirt. This is acceptable for an interview, but not ideal. A suit or blazer would be more professional.",
+          "score": 7
+        },
+        "background": {
+          "justification": "The background is a bit cluttered with a bookshelf and a door with papers on it. It's not terrible, but it could be more professional and less distracting.",
+          "score": 6
+        },
+        "videoQuality": {
+          "justification": "The video has poor lighting and the framing is not ideal. The resolution is also low, making it difficult to see the candidate clearly.",
+          "score": 4
+        },
+        "appearance": {
+          "justification": "The candidate's appearance is generally neat, but his hair appears slightly unkempt and distracting. This is a minor issue that could be easily addressed with better grooming.",
+          "score": 7
+        },
+        "eyeContact": {
+          "justification": "The candidate looks down for the majority of the video, and does not make consistent eye contact with the camera. This makes it difficult to feel engaged with the candidate.",
+          "score": 3
+        }
+      },
+      "audio": {
+        "delivery": {
+          "justification": "The candidate's speech delivery is significantly affected by a monotone voice, frequent pauses, and hesitations. These issues make it difficult to follow the candidate's train of thought and understand the content being presented. The delivery lacks energy and enthusiasm, which further detracts from the overall impact of the message. The candidate also admits to not being good at English pronunciation at [00:01:10].",
+          "score": 3
+        },
+        "pronunciation": {
+          "justification": "The candidate's pronunciation is poor and significantly impacts clarity. There are frequent mispronunciations and hesitations throughout the video, making it difficult to understand the content. At [00:01:10], the candidate admits to not being good at English pronunciation.",
+          "score": 3
+        },
+        "accent": {
+          "justification": "The candidate's accent significantly impacts comprehension. There are frequent pauses and hesitations, and the pronunciation of several words is unclear, making it difficult to follow the content of the response.",
+          "score": 3
+        }
+      },
+      "content": {
+        "irrelevantResponses": {
+          "justification": "The candidate does not address the question of how one society's literature can be appreciated by another. Instead, he gives a general statement about the importance of literature.",
+          "score": 2
+        },
+        "fillerWords": {
+          "justification": "The candidate uses excessive filler words throughout the video, including \"um,\" \"uh,\" and repeated phrases like \"and and and.\" This significantly disrupts the flow of speech and makes it difficult to follow the candidate's train of thought. The candidate also admits to not being good at English pronunciation at [00:01:10].",
+          "score": 2
+        },
+        "pauses": {
+          "justification": "The candidate has multiple long pauses throughout the video, and also self-identifies that they are not good at English pronunciation. The pauses disrupt the flow of the interview and make it difficult to follow the candidate's train of thought. [00:00:00] [00:00:17] [00:00:53] [00:01:03] [00:01:22]",
+          "score": 3
+        },
+        "grammar": {
+          "justification": "The candidate's English grammar and pronunciation are poor. He struggles to articulate his thoughts clearly, often pausing and using filler words. At [00:01:09], he admits his English pronunciation is not good.",
+          "score": 3
+        },
+        "structure": {
+          "justification": "The candidate's response is disorganized and lacks a clear structure. The candidate struggles to articulate their thoughts coherently, resulting in a disjointed and confusing presentation. The candidate also admits to not being good at English pronunciation at [00:01:10].",
+          "score": 3
+        }
+      },
+      "irregularities": {
+        "language": {
+          "justification": "The candidate's English is very poor. He struggles to articulate his thoughts and makes frequent grammatical errors. His pronunciation is also difficult to understand. At [00:01:09], he admits that he is not good at English pronunciation.",
+          "score": 3
+        },
+        "behavior": {
+          "justification": "The candidate's interview is interrupted by a phone ringing at [00:00:00]. Additionally, the candidate admits at [00:01:09] that they are not good at English pronunciation, which is a significant issue for an interview conducted in English.",
+          "score": 4
+        },
+        "videoIrregularities": {
+          "justification": "The candidate's English pronunciation is difficult to understand, and he acknowledges this at [00:01:09]. Additionally, there are several pauses and hesitations throughout the video, indicating a lack of fluency and preparation. The ringing sound at the beginning of the video is also distracting.",
+          "score": 4
+        },
+        "aiCheating": {
+          "justification": "The candidate's English proficiency seems significantly lower than the vocabulary and concepts they are discussing, raising strong suspicions of AI assistance. The candidate also admits to not being good at English pronunciation at [01:10].",
+          "score": 2
+        }
+      }
+    },
+    "question": "To what extent can one society’s literature (e.g. novels, poems) be fully appreciated by another society?"
+  },
+  {
+    "firstName": "ZHONGRUI",
+    "lastName": "WANG",
+    "email": "911853375@qq.com",
+    "attemptId": "392e8152531e8d4af558c841",
+    "s3Path": "s3://ai-interview-aiinterviewbucket-ekdgigsxg8fj/videos/Webm/5af2dca1-1e22-41fb-aa66-115e23457940.webm",
+    "presignedURL": "https://ai-interview-aiinterviewbucket-ekdgigsxg8fj.s3.ap-southeast-1.amazonaws.com/videos/Webm/5af2dca1-1e22-41fb-aa66-115e23457940.webm?response-content-disposition=inline&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAMZS7bLAo0HWb1TQpvsfQRwNqNoA6bMXtD8%2BTQ%2FNk3CxAiBVIcSq52mQXrjSBAW7PsVE6gtfPjV8%2BRqqRltrBJblpirWAwhFEAMaDDU1NzAwODgzMDI0NyIMBnSjE6hOxVTX0U5nKrMD0PdFeKbUU5xQngsjzm%2BmeAeP6d5D35LT8zMhgjIogxgI8xMl7g069ucjsmV0jzvJZqyv22nFVUe67l9WpvzwNXw92seoPoDz21DYOBA%2BbfstvCIpQ28d67cH0KoU%2B1HJh%2FLOkbvRefyu4F4YOeqUryynSDUryMqjP1xtSSn4qGuWCeEFD6wvrFNwiWR5%2FL%2BpACUIPyyqgwGH6DOPJa4NQih%2B09cLI2qRQ89WxX3ZLv8433pTnwdmWX9DFa1tOk85mx%2Bj5l3rs6zo2c0rjanfkCnr7xLcxl%2FkzP05Xrcw%2F%2FlBDIXgVkiecYg1qGORIlhneljOiHApWe8B7dZkAQbZ%2F4pzS4Nglh7Yzu%2BQpCSdXMX3jf2LCl1GmsqcAwo%2F%2Bt02%2BPt%2FAcMyy%2BDFEBxiQwi%2FucDRsrADpGc%2BgnXHA5uVClY9OIQ82kTke%2FZygb7FAHpIKT3kIvGMsz%2FMfhv%2BBBeVZnlQ9%2Bp6aXFwfz%2BefZbwhduYrz%2FK0nIGo96it9XM9CCmT%2FuP5LZ%2FZigf32TisjEfFl9jJ5IPewq6pYxgGY2g%2BFck%2FWJVTX3mbfmNRX5de4o6aFmPMN2inMEGOt4Cu5FhK9CItS1sfdoSyzZdlG1snYyWl98mNBOmH60oK80R3yZmbCylOcnYWcrq4Yk6EM8idrGrHMQmjFxKaEU1mVnfRgRZqT2OfDpUEny3LOh4dKJ5V1tV%2F3GVoghNnipT5xZ5YhuAfXuKuFprhsfyK1vqvEVrXy7E79A5b4iGTl8kfb0L0y81wXvfcvf7z1POYRqWY7JWvt4lRfQy8B6E1OOgLEJW5BhekfOz8KPX5Z8E8ESih5Yomoq3xQ%2FLfaW8ECagrLczb%2BNo4wINtXtmXy1dMThs9ctBfXoUdj%2BRWORO8rRXMqM1gZYP1%2BSoCNmcd33Gw%2FvCHUfCeHjmuOmNsq0T1zYbMq0TbdUopMQYBLNX0fH9VTIUxoQeUz%2Bfxlhxa%2FlK9JIFYGJKSKlH8tL7%2BgAbGo7It2dXq890bSU32U%2BDHGqG6ox7GtgXZtU8zh%2BLPC9Nu0maUiIEKNbfs%2Fs%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAYDMCQH4T5M2RN7F3%2F20250516%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20250516T113202Z&X-Amz-Expires=43200&X-Amz-SignedHeaders=host&X-Amz-Signature=b87015d28b14e9c9460127e2fc5d1a0649a0ebbbb3772de01fe00a15358d65e5",
+    "localPath": "C:\\Users\\fata-\\Documents\\personal\\AGA\\experiment-severe-weakness\\hku_videos\\5af2dca1-1e22-41fb-aa66-115e23457940.webm.webm",
+    "analysis": {
+      "visual": {
+        "attire": {
+          "justification": "The candidate's attire is a casual sweater, which is not appropriate for a professional interview setting. A more formal shirt or blouse would be more suitable.",
+          "score": 6
+        },
+        "background": {
+          "justification": "The background is very distracting. The candidate is in a bedroom with a bed and clothes rack visible. The framing is also poor, cutting off the top of the candidate's head.",
+          "score": 2
+        },
+        "videoQuality": {
+          "justification": "The video quality is poor due to the low resolution and inadequate lighting. The framing is also awkward, with the top of the frame cutting off part of the background. The background is also distracting.",
+          "score": 4
+        },
+        "appearance": {
+          "justification": "The candidate is in a bedroom with a bed visible in the background. The room is not tidy and the lighting is poor. This is not a professional setting for an interview.",
+          "score": 3
+        },
+        "eyeContact": {
+          "justification": "The candidate's eye contact is very poor. He looks down or away from the camera for the majority of the video. This lack of engagement makes it difficult to connect with his message. [00:00:10], [00:00:24], [00:00:31], [00:00:44], [00:01:06], [00:01:17], [00:01:32], [00:01:44]",
+          "score": 2
+        }
+      },
+      "audio": {
+        "delivery": {
+          "justification": "The candidate's speech delivery is monotone and lacks enthusiasm, making it difficult to maintain engagement. There are also noticeable pauses and hesitations throughout the response, which disrupt the flow and clarity of the message. The candidate also uses filler words such as \"uh\" and \"um\" frequently, which further detract from the overall delivery.",
+          "score": 4
+        },
+        "pronunciation": {
+          "justification": "The candidate's pronunciation is poor, with frequent mispronunciations and hesitations that significantly impede understanding. Examples include unclear articulation of words and phrases throughout the response, making it difficult to follow the argument.",
+          "score": 3
+        },
+        "accent": {
+          "justification": "The candidate's accent significantly impacts comprehension. There are frequent pauses and hesitations, and the pronunciation of certain words is unclear, making it difficult to follow the argument. The candidate also struggles with grammar and word choice, further hindering understanding. [00:00:10], [00:00:30], [00:01:30]",
+          "score": 3
+        }
+      },
+      "content": {
+        "irrelevantResponses": {
+          "justification": "The candidate's response is somewhat relevant to the question, but it lacks clarity and coherence. The candidate struggles to articulate their thoughts effectively, resulting in a response that is difficult to follow and understand. The candidate's response is not well-organized, and the examples provided are not particularly compelling or insightful. The candidate's response is not particularly engaging or persuasive. [00:00:10] [00:00:30] [00:01:30]",
+          "score": 5
+        },
+        "fillerWords": {
+          "justification": "The candidate uses filler words excessively throughout the video. For example, at [00:00:08], [00:00:11], [00:00:24], [00:00:44], [00:01:05], [00:01:10], [00:01:27], [00:01:31] the candidate uses filler words such as \"um\", \"uh\", and \"so that\" multiple times in a single sentence. This significantly detracts from the clarity and professionalism of the interview.",
+          "score": 2
+        },
+        "pauses": {
+          "justification": "The candidate has several long pauses throughout the video, especially at 0:10, 0:44, 1:06, 1:31, and 1:47. These pauses disrupt the flow of the interview and make it difficult to follow the candidate's train of thought.",
+          "score": 3
+        },
+        "grammar": {
+          "justification": "The candidate's grammar and language skills are weak. There are frequent grammatical errors, incomplete sentences, and awkward phrasing throughout the response. For example, at [00:00:17], the candidate says \"practice definitely make us perfect sometimes,\" which contains grammatical errors. At [00:00:30], the candidate struggles to articulate a coherent thought, using filler words and incomplete sentences. At [00:01:11], the candidate says \"you we practice in a not good way,\" which is grammatically incorrect and difficult to understand. These issues significantly impact the clarity and coherence of the response.",
+          "score": 3
+        },
+        "structure": {
+          "justification": "The response lacks a clear structure and coherent flow. The candidate struggles to articulate their points effectively, resulting in a disorganized and confusing presentation of ideas. The examples provided are not well-integrated into the overall argument, further contributing to the lack of structure.",
+          "score": 3
+        }
+      },
+      "irregularities": {
+        "language": {
+          "justification": "The candidate's English is very poor. There are many grammatical errors and hesitations. The candidate struggles to express his ideas clearly and concisely. The candidate's language skills are not sufficient for a professional interview.",
+          "score": 2
+        },
+        "behavior": {
+          "justification": "The candidate's response is difficult to follow and lacks clarity. There are several instances where the candidate struggles to articulate their thoughts, using filler words and phrases like \"uh\" and \"um\" frequently. The candidate's examples are not well-developed and do not effectively support their argument. The candidate's response is disorganized and lacks a clear structure. The candidate's response is not well-prepared and lacks depth. [00:00:10], [00:00:24], [00:01:31]",
+          "score": 4
+        },
+        "videoIrregularities": {
+          "justification": "The candidate's response is somewhat incoherent and lacks clear structure. There are frequent pauses and filler words, such as \"uhm\" and \"uh\", which disrupt the flow of speech. The candidate also struggles to articulate their thoughts clearly, leading to some ambiguity in their arguments. The background is also not ideal for a professional interview setting. Timestamp: 0:10, 0:24, 0:44, 1:31",
+          "score": 5
+        },
+        "aiCheating": {
+          "justification": "The candidate's response contains several grammatical errors and awkward phrasing, such as \"make us perfect sometimes\" at [00:00:18] and \"upskill our grads\" at [00:00:39]. The candidate also struggles to articulate their thoughts clearly, often pausing and using filler words like \"uh\" and \"um.\" The candidate's vocabulary is limited, and they repeat certain phrases and ideas throughout the response. These issues suggest that the candidate may not be proficient in English and may have relied on AI assistance to generate their response.",
+          "score": 3
+        }
+      }
+    },
+    "question": "Does practice always make perfect?"
+  },
+  {
+    "firstName": "HAOYANG",
+    "lastName": "WU",
+    "email": "1550893971@qq.com",
+    "attemptId": "e7c03b3217d6630cfd86ae90",
+    "s3Path": "s3://ai-interview-aiinterviewbucket-ekdgigsxg8fj/videos/Webm/a2ad8eb8-4f3b-4b18-b3d6-8189c21004d9.webm",
+    "presignedURL": "https://ai-interview-aiinterviewbucket-ekdgigsxg8fj.s3.ap-southeast-1.amazonaws.com/videos/Webm/a2ad8eb8-4f3b-4b18-b3d6-8189c21004d9.webm?response-content-disposition=inline&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAMZS7bLAo0HWb1TQpvsfQRwNqNoA6bMXtD8%2BTQ%2FNk3CxAiBVIcSq52mQXrjSBAW7PsVE6gtfPjV8%2BRqqRltrBJblpirWAwhFEAMaDDU1NzAwODgzMDI0NyIMBnSjE6hOxVTX0U5nKrMD0PdFeKbUU5xQngsjzm%2BmeAeP6d5D35LT8zMhgjIogxgI8xMl7g069ucjsmV0jzvJZqyv22nFVUe67l9WpvzwNXw92seoPoDz21DYOBA%2BbfstvCIpQ28d67cH0KoU%2B1HJh%2FLOkbvRefyu4F4YOeqUryynSDUryMqjP1xtSSn4qGuWCeEFD6wvrFNwiWR5%2FL%2BpACUIPyyqgwGH6DOPJa4NQih%2B09cLI2qRQ89WxX3ZLv8433pTnwdmWX9DFa1tOk85mx%2Bj5l3rs6zo2c0rjanfkCnr7xLcxl%2FkzP05Xrcw%2F%2FlBDIXgVkiecYg1qGORIlhneljOiHApWe8B7dZkAQbZ%2F4pzS4Nglh7Yzu%2BQpCSdXMX3jf2LCl1GmsqcAwo%2F%2Bt02%2BPt%2FAcMyy%2BDFEBxiQwi%2FucDRsrADpGc%2BgnXHA5uVClY9OIQ82kTke%2FZygb7FAHpIKT3kIvGMsz%2FMfhv%2BBBeVZnlQ9%2Bp6aXFwfz%2BefZbwhduYrz%2FK0nIGo96it9XM9CCmT%2FuP5LZ%2FZigf32TisjEfFl9jJ5IPewq6pYxgGY2g%2BFck%2FWJVTX3mbfmNRX5de4o6aFmPMN2inMEGOt4Cu5FhK9CItS1sfdoSyzZdlG1snYyWl98mNBOmH60oK80R3yZmbCylOcnYWcrq4Yk6EM8idrGrHMQmjFxKaEU1mVnfRgRZqT2OfDpUEny3LOh4dKJ5V1tV%2F3GVoghNnipT5xZ5YhuAfXuKuFprhsfyK1vqvEVrXy7E79A5b4iGTl8kfb0L0y81wXvfcvf7z1POYRqWY7JWvt4lRfQy8B6E1OOgLEJW5BhekfOz8KPX5Z8E8ESih5Yomoq3xQ%2FLfaW8ECagrLczb%2BNo4wINtXtmXy1dMThs9ctBfXoUdj%2BRWORO8rRXMqM1gZYP1%2BSoCNmcd33Gw%2FvCHUfCeHjmuOmNsq0T1zYbMq0TbdUopMQYBLNX0fH9VTIUxoQeUz%2Bfxlhxa%2FlK9JIFYGJKSKlH8tL7%2BgAbGo7It2dXq890bSU32U%2BDHGqG6ox7GtgXZtU8zh%2BLPC9Nu0maUiIEKNbfs%2Fs%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAYDMCQH4T5M2RN7F3%2F20250516%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20250516T113250Z&X-Amz-Expires=43200&X-Amz-SignedHeaders=host&X-Amz-Signature=9b282f8c4202d5ea751d591d1fe84288f893340ddb88412eb4720a4357813190",
+    "localPath": "C:\\Users\\fata-\\Documents\\personal\\AGA\\experiment-severe-weakness\\hku_videos\\a2ad8eb8-4f3b-4b18-b3d6-8189c21004d9.webm.webm",
+    "analysis": {
+      "visual": {
+        "attire": {
+          "justification": "The candidate is wearing a casual sweatshirt, which is not appropriate for an interview setting. A more professional attire, such as a button-down shirt or a blazer, would have been more suitable.",
+          "score": 6
+        },
+        "background": {
+          "justification": "The background is a bedroom with an unmade bed, which is unprofessional and distracting.",
+          "score": 3
+        },
+        "videoQuality": {
+          "justification": "The video quality is poor. The lighting is not ideal, and the background is distracting. The framing is also not ideal, as the candidate is not centered in the frame.",
+          "score": 6
+        },
+        "appearance": {
+          "justification": "The candidate is in a casual setting (bedroom) and wearing a casual shirt. While not a critical issue, it doesn't present a professional image.",
+          "score": 6
+        },
+        "eyeContact": {
+          "justification": "The candidate's eye contact is poor. He looks down frequently and does not maintain consistent engagement with the camera. [00:00:00] - [00:00:02], [00:00:12] - [00:00:14], [00:00:38] - [00:00:40]",
+          "score": 3
+        }
+      },
+      "audio": {
+        "delivery": {
+          "justification": "The candidate's speech delivery is monotone and lacks energy, making it difficult to maintain engagement. There are also noticeable pauses and hesitations throughout the speech, which disrupt the flow and impact comprehension.",
+          "score": 3
+        },
+        "pronunciation": {
+          "justification": "The candidate has a lot of pronunciation issues that make it difficult to understand what he is saying. For example, at [00:00:08] he says \"double-aged sword\" but it sounds like something else. He also has a lot of filler words like \"um\" and \"uh\" that make it difficult to follow his train of thought.",
+          "score": 3
+        },
+        "accent": {
+          "justification": "The candidate's accent significantly impacts comprehension. While the general topic is understandable, specific details and nuances are difficult to grasp, requiring significant effort to follow the argument.",
+          "score": 3
+        }
+      },
+      "content": {
+        "irrelevantResponses": {
+          "justification": "The candidate provides a balanced view of social media's impact on young people, discussing both the positive aspects like self-expression and cultural exchange, and the negative aspects like potential for sadness, depression, and online bullying. The response is directly relevant to the question about the impacts of social media.",
+          "score": 9
+        },
+        "fillerWords": {
+          "justification": "The candidate uses filler words such as \"um\" and \"like\" excessively throughout the response. This detracts from the clarity and professionalism of the communication. The candidate also uses \"and\" to start many sentences.",
+          "score": 3
+        },
+        "pauses": {
+          "justification": "The candidate has several long pauses throughout the video, which disrupt the flow of the interview. For example, there is a long pause at [00:00:12] and [00:00:46].",
+          "score": 4
+        },
+        "grammar": {
+          "justification": "The candidate's grammar and language skills are weak. There are frequent grammatical errors, incomplete sentences, and awkward phrasing throughout the response. For example, at [00:00:04] \"to my opinion\" should be \"in my opinion.\" At [00:00:08] \"double-edged sword\" is misspoken. At [00:00:38] \"the young people all around the world together as a culture bridge\" is awkward and unclear. At [00:01:46] \"schools\" is misspoken.",
+          "score": 3
+        },
+        "structure": {
+          "justification": "The response lacks a clear structure. The candidate presents points without a logical flow, making it difficult to follow the argument effectively. The points are somewhat related but not organized into a coherent narrative or argument.",
+          "score": 5
+        }
+      },
+      "irregularities": {
+        "language": {
+          "justification": "The candidate's English is understandable but contains frequent grammatical errors and hesitations, impacting clarity and fluency. The candidate also uses filler words such as \"um\" and \"like\" frequently.",
+          "score": 5
+        },
+        "behavior": {
+          "justification": "The candidate is in a bedroom with an unmade bed in the background. This is not a professional setting for an interview. [00:00:00]",
+          "score": 6
+        },
+        "videoIrregularities": {
+          "justification": "The candidate's response is somewhat disjointed and lacks a clear, structured argument. There are several pauses and hesitations throughout the response, and the candidate struggles to articulate their points effectively. The candidate also uses filler words such as \"um\" and \"like\" frequently, which detracts from the overall clarity and professionalism of the response. [00:00:13], [00:00:38], [00:01:11]",
+          "score": 5
+        },
+        "aiCheating": {
+          "justification": "The candidate's response contains several instances of awkward phrasing and unnatural language use, such as \"double-edged sword to young people\" and \"culture bridge.\" The vocabulary used is somewhat advanced, but the overall fluency and coherence are lacking, suggesting possible AI assistance. The candidate also struggles to articulate their thoughts clearly, leading to rambling and repetitive statements. The candidate also appears to be reading from a script.",
+          "score": 4
+        }
+      }
+    },
+    "question": "What are the impacts of social media influencers on young people?"
+  },
+  {
+    "firstName": "XIANGNING",
+    "lastName": "DU",
+    "email": "Skybird2025@163.com",
+    "attemptId": "82eba0e62be2192b5c64660c",
+    "s3Path": "s3://ai-interview-aiinterviewbucket-ekdgigsxg8fj/videos/Webm/bcee2286-8ebd-436e-ac99-6af6e995e024.webm",
+    "presignedURL": "https://ai-interview-aiinterviewbucket-ekdgigsxg8fj.s3.ap-southeast-1.amazonaws.com/videos/Webm/bcee2286-8ebd-436e-ac99-6af6e995e024.webm?response-content-disposition=inline&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLXNvdXRoZWFzdC0xIkcwRQIgB33Qc4CyFMuci5CMsz%2BJneGuLlj09uVBWEkPtw6252ICIQDV%2BBIic1zylhGRyk29C6Q1KIknDy4tnM6OoMZzBWYa1irWAwhFEAMaDDU1NzAwODgzMDI0NyIMCkgqJCxlwYOtVuw7KrMDGm2EMFAa8my%2FnwP5qt97Z0F5z3RL4PS%2Bs8ycm4vsD8iFjG6IrUwCV2ZbMxrUkQ%2BbXQx26IJdSZVRUaiXGZaugHp%2BYbVqIuk2k8wyMPAJ0DzuSXv5xheWhD2ra2YnjyVAL51swFcERw0kCBlG4%2BjUX2LrbzjUGLHm7CtHVzOwZttXTi24ShZkgbHLIMnNKv8WAaAc%2BxHZHhyxehqTIzDw7NLqtoU0021gFdLQZrf36db6XfWPIGItSlDDwTO2KIBl3YDw7TlW61IfcZgd47KZp0r%2F%2FwIHWhni3raHoufo76YDcT3AdDYDGGV2b9jsndWJY08N38vEmCTjVgGFK%2BLVz8sqIV%2FKP3JODGx%2F%2FtFt4GmAV62a8iVvp5%2FOuQwTUncMCWvPUV3hgsz5L%2BMzCa%2BWAweNso9GSMB7VJ6Frox0f8JY02Apb2JXouZqYDMfbDUqRg%2Baam7omSEjY%2FdeYxfY7%2Bv8tCojSf9yyBxo2g9mn3%2FZB0uN7simaljSpx8%2BR04n9lEVefiaXdzdWEHSh7%2BTcqYWx6MIutr%2ByunfPKTogxSRJpJkO8BsCLCEdg00PkQexUDMMN2inMEGOt4CKWbSHxJQRVOf7l8GDCfOjt50EIY8Git6953UEeGc5zB%2F1QRXKUiYhpzDfF3vw30UYaA%2Fw7WO2L6mM4oGMdwCTIFYRaPVRYR%2FuRJ4juS00KJ4PvZ6WHtyrfDOMEjcEGf5dCfUWZ2zoLRvn8kx0Ft%2B2Qy1WjPHwv9rB7eVDGsurXYea9R3WVaoH9LZ1AbwiBsw5Onrw%2BSgHWUGTCSgZZYkRGrH6KsJfilEfLIhRyBJoUObBDJ%2F1N7evV3P6yjH1lwJZRV5Gos02oXuQjng0IB%2Bp%2FEuBrnhYRnvqdN2wsOpLR5%2FUCb8pNot4sHwiHM%2BREkzFex4iKQbFPC%2FOLexxNgW1fFDa%2FNXnTlrExUiB1aQZHmW%2FRAPECR1445D1sX9ofSuhPOslpEnhoB2VQzITuSvL2%2FahdldvUweoWB64rGz19NsqEfaQW1TTINd6%2F%2Fiw3oJSVmgD%2Fbk3x0EBdKFNAA%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAYDMCQH4TW53NJTP2%2F20250516%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20250516T113330Z&X-Amz-Expires=43200&X-Amz-SignedHeaders=host&X-Amz-Signature=35b0f61f492227639fe547c4a21c482dc33ee9630ee3b89ea73cdd7e20348113",
+    "localPath": "C:\\Users\\fata-\\Documents\\personal\\AGA\\experiment-severe-weakness\\hku_videos\\bcee2286-8ebd-436e-ac99-6af6e995e024.webm.webm",
+    "analysis": {
+      "visual": {
+        "attire": {
+          "justification": "The candidate is brushing their teeth at the beginning of the video. This is highly unprofessional and inappropriate for an interview setting.",
+          "score": 1
+        },
+        "background": {
+          "justification": "The background is a dimly lit room with personal items visible, including a clock and curtains. The lighting is poor, and the overall setting is unprofessional and distracting for an interview.",
+          "score": 2
+        },
+        "videoQuality": {
+          "justification": "The video quality is very poor. The lighting is bad, the framing is shaky, and the resolution is very low. Additionally, the candidate is brushing their teeth at the beginning of the video, which is unprofessional.",
+          "score": 1
+        },
+        "appearance": {
+          "justification": "The candidate appears to be brushing their teeth at the beginning of the video [00:00:00]. The lighting is poor, and the background is messy. The candidate also touches their hair during the interview [00:01:14].",
+          "score": 2
+        },
+        "eyeContact": {
+          "justification": "The candidate is looking down and away from the camera for the majority of the video. This makes it difficult to assess her engagement and sincerity. [00:01:09] [00:01:14]",
+          "score": 3
+        }
+      },
+      "audio": {
+        "delivery": {
+          "justification": "The candidate's speech delivery is monotone and lacks energy, making it difficult to maintain engagement. There are also noticeable pauses and hesitations, such as at [00:00:27] and [00:01:14], which disrupt the flow of speech and affect comprehension.",
+          "score": 3
+        },
+        "pronunciation": {
+          "justification": "The candidate's pronunciation is unclear and difficult to understand. There are frequent mispronunciations and hesitations throughout the response, making it challenging to follow the content. For example, at [00:00:15], the candidate struggles to articulate a clear thought, and this pattern continues throughout the video.",
+          "score": 3
+        },
+        "accent": {
+          "justification": "The candidate's accent significantly impacts comprehension. There are frequent pauses and hesitations, and the pronunciation of certain words is unclear, making it difficult to follow the response without significant effort. The overall flow is disrupted, and the message is not conveyed effectively due to these linguistic barriers.",
+          "score": 3
+        }
+      },
+      "content": {
+        "irrelevantResponses": {
+          "justification": "The candidate starts the video brushing her teeth, which is highly unprofessional and inappropriate for an interview setting. This demonstrates a lack of preparation and understanding of professional expectations. [00:00:00]",
+          "score": 1
+        },
+        "fillerWords": {
+          "justification": "The candidate uses excessive filler words such as \"um\" and \"uh\" throughout the response. There are multiple instances where these filler words appear more than 5 times in a single sentence, significantly disrupting the flow and clarity of the response. Examples include at [00:00:04], [00:00:12], [00:00:34], [00:01:09], [00:01:14].",
+          "score": 2
+        },
+        "pauses": {
+          "justification": "The candidate has multiple long pauses throughout the video. At [00:00:27] there is a 3 second pause. At [00:01:09] there is a 2 second pause. At [00:01:14] there is a 2 second pause. At [00:01:46] there is a 2 second pause.",
+          "score": 3
+        },
+        "grammar": {
+          "justification": "The candidate's grammar and language skills are weak. There are frequent pauses, filler words (um, uh), and incomplete sentences. The candidate struggles to articulate thoughts clearly and uses vague language. At [00:00:27], the candidate struggles to find the right words. At [00:01:14], the candidate pauses for a long time and seems unsure of what to say.",
+          "score": 3
+        },
+        "structure": {
+          "justification": "The response is very disorganized and difficult to follow. The candidate struggles to articulate her thoughts clearly, leading to a rambling and incoherent answer. The lack of clear examples or specific instances further contributes to the disorganization.",
+          "score": 3
+        }
+      },
+      "irregularities": {
+        "language": {
+          "justification": "The candidate's language skills are not strong. She struggles to articulate her thoughts clearly and uses filler words frequently. There are also noticeable pauses and hesitations, which disrupt the flow of her speech. Her vocabulary is limited, and she often struggles to find the right words to express her ideas. This makes it difficult to understand her points and assess her qualifications effectively. 0:18, 0:27, 1:10, 1:14",
+          "score": 4
+        },
+        "behavior": {
+          "justification": "The candidate starts the video brushing her teeth. This is highly unprofessional and inappropriate for an interview setting. The candidate also appears unprepared and struggles to articulate her thoughts clearly, using filler words and hesitations throughout the response. The overall presentation lacks polish and professionalism.",
+          "score": 1
+        },
+        "videoIrregularities": {
+          "justification": "The video starts with the candidate brushing their teeth, which is highly unprofessional and inappropriate for an interview setting. This demonstrates a lack of preparation and understanding of professional etiquette.",
+          "score": 1
+        },
+        "aiCheating": {
+          "justification": "The candidate's response is filled with filler words and phrases like \"um,\" \"uh,\" and repetitive statements. The language used is overly formal and doesn't flow naturally, suggesting a lack of genuine understanding or spontaneous thought. The candidate also struggles to articulate her points clearly, often pausing and correcting herself, which is uncharacteristic of a fluent speaker. The overall impression is that the response is heavily reliant on pre-prepared phrases and lacks the spontaneity of a natural conversation. [00:00:13], [00:00:27], [00:01:09], [00:01:14]",
+          "score": 2
+        }
+      }
+    },
+    "question": "How have you demonstrated adaptability in the face of change?"
+  },
+  {
+    "firstName": "ZIQING",
+    "lastName": "FENG",
+    "email": "13910561217@139.com",
+    "attemptId": "20dea081512d2fd14c59bcaf",
+    "s3Path": "s3://ai-interview-aiinterviewbucket-ekdgigsxg8fj/videos/Webm/41c5b930-ebbb-4545-ba90-0c2c957afff5.webm",
+    "presignedURL": "https://ai-interview-aiinterviewbucket-ekdgigsxg8fj.s3.ap-southeast-1.amazonaws.com/videos/Webm/41c5b930-ebbb-4545-ba90-0c2c957afff5.webm?response-content-disposition=inline&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLXNvdXRoZWFzdC0xIkcwRQIgB33Qc4CyFMuci5CMsz%2BJneGuLlj09uVBWEkPtw6252ICIQDV%2BBIic1zylhGRyk29C6Q1KIknDy4tnM6OoMZzBWYa1irWAwhFEAMaDDU1NzAwODgzMDI0NyIMCkgqJCxlwYOtVuw7KrMDGm2EMFAa8my%2FnwP5qt97Z0F5z3RL4PS%2Bs8ycm4vsD8iFjG6IrUwCV2ZbMxrUkQ%2BbXQx26IJdSZVRUaiXGZaugHp%2BYbVqIuk2k8wyMPAJ0DzuSXv5xheWhD2ra2YnjyVAL51swFcERw0kCBlG4%2BjUX2LrbzjUGLHm7CtHVzOwZttXTi24ShZkgbHLIMnNKv8WAaAc%2BxHZHhyxehqTIzDw7NLqtoU0021gFdLQZrf36db6XfWPIGItSlDDwTO2KIBl3YDw7TlW61IfcZgd47KZp0r%2F%2FwIHWhni3raHoufo76YDcT3AdDYDGGV2b9jsndWJY08N38vEmCTjVgGFK%2BLVz8sqIV%2FKP3JODGx%2F%2FtFt4GmAV62a8iVvp5%2FOuQwTUncMCWvPUV3hgsz5L%2BMzCa%2BWAweNso9GSMB7VJ6Frox0f8JY02Apb2JXouZqYDMfbDUqRg%2Baam7omSEjY%2FdeYxfY7%2Bv8tCojSf9yyBxo2g9mn3%2FZB0uN7simaljSpx8%2BR04n9lEVefiaXdzdWEHSh7%2BTcqYWx6MIutr%2ByunfPKTogxSRJpJkO8BsCLCEdg00PkQexUDMMN2inMEGOt4CKWbSHxJQRVOf7l8GDCfOjt50EIY8Git6953UEeGc5zB%2F1QRXKUiYhpzDfF3vw30UYaA%2Fw7WO2L6mM4oGMdwCTIFYRaPVRYR%2FuRJ4juS00KJ4PvZ6WHtyrfDOMEjcEGf5dCfUWZ2zoLRvn8kx0Ft%2B2Qy1WjPHwv9rB7eVDGsurXYea9R3WVaoH9LZ1AbwiBsw5Onrw%2BSgHWUGTCSgZZYkRGrH6KsJfilEfLIhRyBJoUObBDJ%2F1N7evV3P6yjH1lwJZRV5Gos02oXuQjng0IB%2Bp%2FEuBrnhYRnvqdN2wsOpLR5%2FUCb8pNot4sHwiHM%2BREkzFex4iKQbFPC%2FOLexxNgW1fFDa%2FNXnTlrExUiB1aQZHmW%2FRAPECR1445D1sX9ofSuhPOslpEnhoB2VQzITuSvL2%2FahdldvUweoWB64rGz19NsqEfaQW1TTINd6%2F%2Fiw3oJSVmgD%2Fbk3x0EBdKFNAA%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAYDMCQH4TW53NJTP2%2F20250516%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20250516T113403Z&X-Amz-Expires=43200&X-Amz-SignedHeaders=host&X-Amz-Signature=0aa13dfc425da9dd8f7d5e2a9c7db2a7269f104f7fe83e5d8320a65b430a5009",
+    "localPath": "C:\\Users\\fata-\\Documents\\personal\\AGA\\experiment-severe-weakness\\hku_videos\\41c5b930-ebbb-4545-ba90-0c2c957afff5.webm.webm",
+    "analysis": {
+      "visual": {
+        "attire": {
+          "justification": "The candidate's attire is a plain black long-sleeved shirt, which is acceptable but not particularly professional. The background is cluttered with luggage and other items, which detracts from the overall impression. The candidate also touches their face multiple times during the interview, which can be distracting and unprofessional.",
+          "score": 6
+        },
+        "background": {
+          "justification": "The background is cluttered with luggage and other items, creating a distracting and unprofessional setting. The framing is also not ideal, as it cuts off part of the candidate's head and doesn't provide a clear view of their face.",
+          "score": 2
+        },
+        "videoQuality": {
+          "justification": "The video quality is poor. The lighting is not great, and the framing is awkward. The background is also cluttered and distracting. The candidate also touches their face multiple times during the video, which is unprofessional. ",
+          "score": 4
+        },
+        "appearance": {
+          "justification": "The candidate's appearance is unkempt. Her hair is not neatly styled, and she touches her face frequently, which can be distracting. The background is also cluttered, which detracts from a professional image.",
+          "score": 4
+        },
+        "eyeContact": {
+          "justification": "The candidate's eye contact is poor. She looks down at her hands and the pen for the majority of the video. She also touches her face multiple times, which is distracting. [00:00:03], [00:00:28], [00:00:48], [00:01:01], [00:01:17], [00:01:42], [00:01:54]",
+          "score": 3
+        }
+      },
+      "audio": {
+        "delivery": {
+          "justification": "The candidate's speech delivery is monotone and lacks intonation, making it difficult to maintain engagement. There are also noticeable pauses and hesitations throughout the response, indicating a lack of fluency and potentially affecting comprehension. The candidate also touches her face multiple times, which is distracting.",
+          "score": 3
+        },
+        "pronunciation": {
+          "justification": "The candidate's pronunciation is unclear and difficult to understand. There are frequent mispronunciations and hesitations throughout the video, making it challenging to follow the content. For example, at [00:00:17], the candidate struggles to pronounce the word \"paying\".",
+          "score": 3
+        },
+        "accent": {
+          "justification": "The candidate's accent significantly impacts comprehension. There are frequent pauses and hesitations, and the pronunciation of certain words is unclear, making it difficult to follow the flow of the response.",
+          "score": 3
+        }
+      },
+      "content": {
+        "irrelevantResponses": {
+          "justification": "The candidate struggles to articulate a clear and concise answer, often pausing and using filler words. The response lacks a structured flow, making it difficult to follow the main points. The candidate also touches her face multiple times, which is distracting.",
+          "score": 4
+        },
+        "fillerWords": {
+          "justification": "The candidate uses excessive filler words throughout the video. At [00:00:15] she says \"such as sometimes other is paying effort paying paying effort as we paid\". At [00:00:28] she says \"we we may not we may not overpace them just because we pay pay efforts\". At [00:01:05] she says \"maybe we are we are paying efforts on the wrong direction\".",
+          "score": 2
+        },
+        "pauses": {
+          "justification": "The candidate has multiple long pauses throughout the video, especially between 0:30 and 0:41, and again between 1:41 and 1:44. These pauses disrupt the flow of the interview and make it difficult to follow the candidate's train of thought.",
+          "score": 3
+        },
+        "grammar": {
+          "justification": "The candidate's grammar and language skills are significantly lacking. There are frequent grammatical errors, incomplete sentences, and awkward phrasing throughout the video. Examples include incorrect verb tenses, misuse of prepositions, and unclear sentence structure. The candidate also struggles to articulate her thoughts clearly, leading to confusion and difficulty in understanding her message. The candidate also touches her face multiple times during the video, which is not professional.",
+          "score": 3
+        },
+        "structure": {
+          "justification": "The response lacks a clear structure and coherent flow. The candidate struggles to articulate her thoughts, resulting in a disorganized and difficult-to-follow explanation. There are frequent pauses, repetitions, and incomplete sentences, indicating a lack of preparation and clarity in her communication. The overall structure is weak, making it challenging to understand the main points she is trying to convey. [00:00:15], [00:00:29], [00:00:35], [00:00:48]",
+          "score": 2
+        }
+      },
+      "irregularities": {
+        "language": {
+          "justification": "The candidate's English is very poor. She struggles to articulate her thoughts, uses incorrect grammar, and often pauses to search for the right words. This significantly impacts her ability to communicate effectively. At [00:00:17] she says \"other is paying effort as we paid\".",
+          "score": 3
+        },
+        "behavior": {
+          "justification": "The candidate's response is difficult to follow and lacks clarity. There are multiple instances of grammatical errors and awkward phrasing, making it hard to understand the points being made. Additionally, the candidate's body language and fidgeting with the pen are distracting. Overall, the response lacks professionalism and polish.",
+          "score": 4
+        },
+        "videoIrregularities": {
+          "justification": "The candidate's response is difficult to follow and lacks clarity. There are multiple instances of hesitation, repetition, and grammatical errors throughout the response, indicating a lack of fluency and preparedness. The candidate also touches her face multiple times, which is distracting. (0:15-0:40, 0:50-1:00, 1:10-1:30, 1:54)",
+          "score": 3
+        },
+        "aiCheating": {
+          "justification": "The candidate's response contains several grammatical errors and awkward phrasing, suggesting a lack of fluency and potentially indicating the use of AI assistance. The vocabulary used is also somewhat inconsistent with the overall proficiency level demonstrated. For example, the candidate says \"other is paying effort\" at [00:00:17] and \"overpace them\" at [00:00:37].",
+          "score": 3
+        }
+      }
+    },
+    "question": "Does practice always make perfect?"
+  },
+  {
+    "firstName": "MEIXUAN",
+    "lastName": "HE",
+    "email": "2047302848@qq.com",
+    "attemptId": "ffd4d8f9423a1ad6d9a857e5",
+    "s3Path": "s3://ai-interview-aiinterviewbucket-ekdgigsxg8fj/videos/Webm/7bae193c-55a1-404f-b347-262cd8a56ca2.webm",
+    "presignedURL": "https://ai-interview-aiinterviewbucket-ekdgigsxg8fj.s3.ap-southeast-1.amazonaws.com/videos/Webm/7bae193c-55a1-404f-b347-262cd8a56ca2.webm?response-content-disposition=inline&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLXNvdXRoZWFzdC0xIkcwRQIgB33Qc4CyFMuci5CMsz%2BJneGuLlj09uVBWEkPtw6252ICIQDV%2BBIic1zylhGRyk29C6Q1KIknDy4tnM6OoMZzBWYa1irWAwhFEAMaDDU1NzAwODgzMDI0NyIMCkgqJCxlwYOtVuw7KrMDGm2EMFAa8my%2FnwP5qt97Z0F5z3RL4PS%2Bs8ycm4vsD8iFjG6IrUwCV2ZbMxrUkQ%2BbXQx26IJdSZVRUaiXGZaugHp%2BYbVqIuk2k8wyMPAJ0DzuSXv5xheWhD2ra2YnjyVAL51swFcERw0kCBlG4%2BjUX2LrbzjUGLHm7CtHVzOwZttXTi24ShZkgbHLIMnNKv8WAaAc%2BxHZHhyxehqTIzDw7NLqtoU0021gFdLQZrf36db6XfWPIGItSlDDwTO2KIBl3YDw7TlW61IfcZgd47KZp0r%2F%2FwIHWhni3raHoufo76YDcT3AdDYDGGV2b9jsndWJY08N38vEmCTjVgGFK%2BLVz8sqIV%2FKP3JODGx%2F%2FtFt4GmAV62a8iVvp5%2FOuQwTUncMCWvPUV3hgsz5L%2BMzCa%2BWAweNso9GSMB7VJ6Frox0f8JY02Apb2JXouZqYDMfbDUqRg%2Baam7omSEjY%2FdeYxfY7%2Bv8tCojSf9yyBxo2g9mn3%2FZB0uN7simaljSpx8%2BR04n9lEVefiaXdzdWEHSh7%2BTcqYWx6MIutr%2ByunfPKTogxSRJpJkO8BsCLCEdg00PkQexUDMMN2inMEGOt4CKWbSHxJQRVOf7l8GDCfOjt50EIY8Git6953UEeGc5zB%2F1QRXKUiYhpzDfF3vw30UYaA%2Fw7WO2L6mM4oGMdwCTIFYRaPVRYR%2FuRJ4juS00KJ4PvZ6WHtyrfDOMEjcEGf5dCfUWZ2zoLRvn8kx0Ft%2B2Qy1WjPHwv9rB7eVDGsurXYea9R3WVaoH9LZ1AbwiBsw5Onrw%2BSgHWUGTCSgZZYkRGrH6KsJfilEfLIhRyBJoUObBDJ%2F1N7evV3P6yjH1lwJZRV5Gos02oXuQjng0IB%2Bp%2FEuBrnhYRnvqdN2wsOpLR5%2FUCb8pNot4sHwiHM%2BREkzFex4iKQbFPC%2FOLexxNgW1fFDa%2FNXnTlrExUiB1aQZHmW%2FRAPECR1445D1sX9ofSuhPOslpEnhoB2VQzITuSvL2%2FahdldvUweoWB64rGz19NsqEfaQW1TTINd6%2F%2Fiw3oJSVmgD%2Fbk3x0EBdKFNAA%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAYDMCQH4TW53NJTP2%2F20250516%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20250516T113431Z&X-Amz-Expires=43200&X-Amz-SignedHeaders=host&X-Amz-Signature=72f61215abcafd4856d16e6ad66794f1cda8eb7699f36fa5eb561358e102b61c",
+    "localPath": "C:\\Users\\fata-\\Documents\\personal\\AGA\\experiment-severe-weakness\\hku_videos\\7bae193c-55a1-404f-b347-262cd8a56ca2.webm.webm",
+    "analysis": {
+      "visual": {
+        "attire": {
+          "justification": "The candidate is wearing a hoodie, which is too casual for an interview setting. This detracts from the overall impression of professionalism.",
+          "score": 6
+        },
+        "background": {
+          "justification": "The background is a messy bedroom with a bed, clothes rack, and other items visible. This is distracting and unprofessional for an interview setting.",
+          "score": 3
+        },
+        "videoQuality": {
+          "justification": "The video has poor lighting and the framing is not ideal. The background is cluttered and distracting. The video is also slightly shaky.",
+          "score": 6
+        },
+        "appearance": {
+          "justification": "The candidate's appearance is not professional. She is wearing a hoodie and her hair is not neatly styled. This gives the impression that she did not take the interview seriously.",
+          "score": 4
+        },
+        "eyeContact": {
+          "justification": "The candidate's eye contact is poor. She looks down frequently and avoids direct eye contact with the camera, making it difficult to feel engaged with her response. This occurs throughout the video, but is particularly noticeable at 0:08, 0:19, 0:25, 0:36, 0:45, 0:57, 1:02, 1:15, 1:22, 1:31, 1:38, 1:44.",
+          "score": 3
+        }
+      },
+      "audio": {
+        "delivery": {
+          "justification": "The candidate's speech delivery is monotone and lacks enthusiasm. There are also several grammatical errors and filler words (e.g., \"um\", \"uh\") that disrupt the flow of speech. The candidate also struggles to articulate her thoughts clearly, leading to pauses and hesitations throughout the response. The overall effect is a dull and unengaging presentation. [00:00:05], [00:00:19], [00:00:48]",
+          "score": 3
+        },
+        "pronunciation": {
+          "justification": "The candidate's pronunciation is poor and difficult to understand. She mispronounces words like \"exercise\" and \"heart attack\" and uses incorrect grammar throughout the response. The candidate also uses filler words like \"um\" and \"uh\" frequently, which further detracts from the clarity of her speech. ",
+          "score": 3
+        },
+        "accent": {
+          "justification": "The candidate's accent significantly impacts comprehension. There are frequent mispronunciations and hesitations that make it difficult to follow the flow of the response. The candidate also uses filler words such as \"um\" and \"uh\" which further detract from the clarity of the response.",
+          "score": 3
+        }
+      },
+      "content": {
+        "irrelevantResponses": {
+          "justification": "The candidate provides a clear and structured response, outlining three key benefits of exercise: improved mental health, reduced stress, and opportunities for socialization. The response is relevant and well-articulated, demonstrating a good understanding of the positive impacts of exercise.",
+          "score": 9
+        },
+        "fillerWords": {
+          "justification": "The candidate uses filler words such as \"um\", \"uh\", and \"like\" excessively throughout the interview. There are also instances of repeating phrases and incomplete sentences, which further detract from the clarity and professionalism of the response. The candidate also uses the word \"can\" too often.",
+          "score": 3
+        },
+        "pauses": {
+          "justification": "The candidate has many pauses and filler words throughout the interview. The pauses disrupt the flow of the interview and make it difficult to understand the candidate's points. [00:00:05], [00:00:16], [00:00:25], [00:00:40], [00:01:09], [00:01:20], [00:01:42]",
+          "score": 3
+        },
+        "grammar": {
+          "justification": "The candidate's grammar and language skills are weak. There are frequent grammatical errors, incorrect word usage, and awkward sentence structures throughout the response. Examples include: \"actor size is good for me\", \"influence me in many aspect\", \"it can help to improve my mental health\", \"reduce the risk of head attacked\", \"relieve my pleasure away\", and numerous instances of using \"can\" incorrectly. These errors significantly impact the clarity and professionalism of the communication.",
+          "score": 3
+        },
+        "structure": {
+          "justification": "The response is somewhat structured, but the language barrier makes it difficult to follow the logic. The candidate uses \"firstly,\" \"second,\" and \"third,\" but the ideas are not clearly articulated. The candidate also uses filler words such as \"um\" and \"well\" frequently.",
+          "score": 5
+        }
+      },
+      "irregularities": {
+        "language": {
+          "justification": "The candidate's English is very poor. She struggles to articulate her thoughts and makes frequent grammatical errors. Her vocabulary is limited, and she often uses incorrect word choices. The overall effect is that her communication is difficult to understand and lacks clarity.",
+          "score": 2
+        },
+        "behavior": {
+          "justification": "The candidate's response is somewhat disorganized and lacks a clear structure. She uses filler words like \"um\" and \"uh\" frequently, which can be distracting. Her language is also somewhat vague and imprecise, and she struggles to articulate her thoughts clearly. She is also wearing a hoodie, which is not appropriate for an interview.",
+          "score": 5
+        },
+        "videoIrregularities": {
+          "justification": "The candidate's response is somewhat disorganized and lacks clear structure. There are also several grammatical errors and awkward phrasing throughout the response. The candidate also appears to be reading from a script, which makes the response sound less natural and engaging. [00:00:05], [00:00:16], [00:00:41]",
+          "score": 5
+        },
+        "aiCheating": {
+          "justification": "The candidate's response contains several grammatical errors and awkward phrasing, such as \"actor size is good for me\" and \"relieve my pleasure away.\" The vocabulary used is simple and repetitive, and the overall fluency is low. These issues suggest a lack of proficiency in English, which is inconsistent with the candidate's ability to articulate complex ideas. This raises strong suspicion of AI assistance.",
+          "score": 2
+        }
+      }
+    },
+    "question": "Why is exercise good for you?"
+  },
+  {
+    "firstName": "MINGXUAN",
+    "lastName": "YU",
+    "email": "28819842@qq.com",
+    "attemptId": "397e96d8f4b4b57c8e5623aa",
+    "s3Path": "s3://ai-interview-aiinterviewbucket-ekdgigsxg8fj/videos/Webm/1fef705a-2db1-4555-a442-729dc8fc5fc9.webm",
+    "presignedURL": "https://ai-interview-aiinterviewbucket-ekdgigsxg8fj.s3.ap-southeast-1.amazonaws.com/videos/Webm/1fef705a-2db1-4555-a442-729dc8fc5fc9.webm?response-content-disposition=inline&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLXNvdXRoZWFzdC0xIkcwRQIgB33Qc4CyFMuci5CMsz%2BJneGuLlj09uVBWEkPtw6252ICIQDV%2BBIic1zylhGRyk29C6Q1KIknDy4tnM6OoMZzBWYa1irWAwhFEAMaDDU1NzAwODgzMDI0NyIMCkgqJCxlwYOtVuw7KrMDGm2EMFAa8my%2FnwP5qt97Z0F5z3RL4PS%2Bs8ycm4vsD8iFjG6IrUwCV2ZbMxrUkQ%2BbXQx26IJdSZVRUaiXGZaugHp%2BYbVqIuk2k8wyMPAJ0DzuSXv5xheWhD2ra2YnjyVAL51swFcERw0kCBlG4%2BjUX2LrbzjUGLHm7CtHVzOwZttXTi24ShZkgbHLIMnNKv8WAaAc%2BxHZHhyxehqTIzDw7NLqtoU0021gFdLQZrf36db6XfWPIGItSlDDwTO2KIBl3YDw7TlW61IfcZgd47KZp0r%2F%2FwIHWhni3raHoufo76YDcT3AdDYDGGV2b9jsndWJY08N38vEmCTjVgGFK%2BLVz8sqIV%2FKP3JODGx%2F%2FtFt4GmAV62a8iVvp5%2FOuQwTUncMCWvPUV3hgsz5L%2BMzCa%2BWAweNso9GSMB7VJ6Frox0f8JY02Apb2JXouZqYDMfbDUqRg%2Baam7omSEjY%2FdeYxfY7%2Bv8tCojSf9yyBxo2g9mn3%2FZB0uN7simaljSpx8%2BR04n9lEVefiaXdzdWEHSh7%2BTcqYWx6MIutr%2ByunfPKTogxSRJpJkO8BsCLCEdg00PkQexUDMMN2inMEGOt4CKWbSHxJQRVOf7l8GDCfOjt50EIY8Git6953UEeGc5zB%2F1QRXKUiYhpzDfF3vw30UYaA%2Fw7WO2L6mM4oGMdwCTIFYRaPVRYR%2FuRJ4juS00KJ4PvZ6WHtyrfDOMEjcEGf5dCfUWZ2zoLRvn8kx0Ft%2B2Qy1WjPHwv9rB7eVDGsurXYea9R3WVaoH9LZ1AbwiBsw5Onrw%2BSgHWUGTCSgZZYkRGrH6KsJfilEfLIhRyBJoUObBDJ%2F1N7evV3P6yjH1lwJZRV5Gos02oXuQjng0IB%2Bp%2FEuBrnhYRnvqdN2wsOpLR5%2FUCb8pNot4sHwiHM%2BREkzFex4iKQbFPC%2FOLexxNgW1fFDa%2FNXnTlrExUiB1aQZHmW%2FRAPECR1445D1sX9ofSuhPOslpEnhoB2VQzITuSvL2%2FahdldvUweoWB64rGz19NsqEfaQW1TTINd6%2F%2Fiw3oJSVmgD%2Fbk3x0EBdKFNAA%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAYDMCQH4TW53NJTP2%2F20250516%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20250516T113526Z&X-Amz-Expires=43200&X-Amz-SignedHeaders=host&X-Amz-Signature=4d2b2795a976246b490bb2c36fca5ad0a37b7bf416d29448fa92316a250485b8",
+    "localPath": "C:\\Users\\fata-\\Documents\\personal\\AGA\\experiment-severe-weakness\\hku_videos\\1fef705a-2db1-4555-a442-729dc8fc5fc9.webm.webm",
+    "analysis": {
+      "visual": {
+        "attire": {
+          "justification": "The candidate's attire is acceptable for a remote interview, but not particularly professional. A more formal top would have been preferable.",
+          "score": 7
+        },
+        "background": {
+          "justification": "The background is a room with a lamp and a cabinet. It's not a professional setting and could be distracting.",
+          "score": 4
+        },
+        "videoQuality": {
+          "justification": "The video quality is acceptable, but the framing is poor. The camera is angled too high, showing too much of the ceiling and not enough of the candidate's face. This is a minor distraction but doesn't significantly impact the interview.",
+          "score": 7
+        },
+        "appearance": {
+          "justification": "The candidate's appearance is neat and professional. Her hair is well-groomed, and her clothing is appropriate for a video interview. There are no visible distractions or issues with her overall presentation.",
+          "score": 9
+        },
+        "eyeContact": {
+          "justification": "The candidate's eye contact is poor. She looks down frequently and does not maintain consistent eye contact with the camera, which makes it seem like she is not engaged with the interviewer. [00:00:06], [00:00:17], [00:00:40]",
+          "score": 4
+        }
+      },
+      "audio": {
+        "delivery": {
+          "justification": "The candidate's speech delivery is monotone and lacks variation in pace and intonation, making it difficult to maintain engagement. The lack of emphasis on key points and the consistent rhythm make the speech sound dull and potentially affect comprehension.",
+          "score": 3
+        },
+        "pronunciation": {
+          "justification": "The candidate's pronunciation is generally clear, but there are occasional hesitations and filler words (\"um,\" \"uh\") that slightly detract from the overall clarity. The pace is a bit slow, but understandable.",
+          "score": 7
+        },
+        "accent": {
+          "justification": "The candidate's accent is clear and easy to understand. There are no issues with pronunciation or intonation that would impede comprehension.",
+          "score": 9
+        }
+      },
+      "content": {
+        "irrelevantResponses": {
+          "justification": "The candidate provides a clear and relevant response to the question, offering a well-reasoned argument for why all information on the internet should be fact-checked. The response includes examples and addresses potential counterarguments, demonstrating a good understanding of the topic.",
+          "score": 9
+        },
+        "fillerWords": {
+          "justification": "The candidate uses filler words such as \"um\" and \"like\" excessively throughout the response. There are multiple instances where these words interrupt the flow of speech and detract from the clarity of the message. The frequency of these filler words is more than 5 per sentence.",
+          "score": 2
+        },
+        "pauses": {
+          "justification": "The candidate has a few pauses that disrupt the flow of the interview. At [00:00:07] there is a pause before continuing the answer. At [00:00:17] there is another pause before continuing the answer. At [00:00:43] there is another pause before continuing the answer. At [00:01:38] there is another pause before continuing the answer.",
+          "score": 6
+        },
+        "grammar": {
+          "justification": "The candidate's grammar and language are generally clear, but there are some instances of awkward phrasing and filler words (like \"um\" and \"like\") that detract from the overall clarity and professionalism. There are also some instances of run-on sentences and a lack of precision in word choice. For example, at [00:00:45] the candidate says \"you cannot like normal people will no longer be able to trust the content that they see on the internet.\" This sentence is grammatically incorrect and difficult to understand. At [00:01:31] the candidate says \"all just to prove this theory correct.\" This sentence is also grammatically incorrect and difficult to understand.",
+          "score": 6
+        },
+        "structure": {
+          "justification": "The response is somewhat structured, but it lacks a clear, concise argument. The candidate meanders through various points without a strong central thesis or organization. The story about the flat-earther is a bit tangential and doesn't directly support the main argument in a clear way. The response could benefit from a more focused and streamlined structure.",
+          "score": 5
+        }
+      },
+      "irregularities": {
+        "language": {
+          "justification": "The candidate speaks English fluently and consistently throughout the video. There are no noticeable lapses or inconsistencies in language use.",
+          "score": 10
+        },
+        "behavior": {
+          "justification": "The candidate's response is well-articulated and provides a clear rationale for their viewpoint. However, the candidate's example of the flat earth theory is not relevant to the question and is not appropriate for a professional interview. The candidate also uses the word \"like\" too many times, which is distracting.",
+          "score": 6
+        },
+        "videoIrregularities": {
+          "justification": "The video appears authentic with no clear signs of digital manipulation or AI generation. The lighting, shadows, and facial movements seem natural, suggesting a genuine recording.",
+          "score": 9
+        },
+        "aiCheating": {
+          "justification": "The candidate's response contains a sophisticated vocabulary and complex reasoning that seems beyond the typical proficiency level expected. The detailed example of the flat-earth theorist and the rocket incident, while relevant, feels somewhat rehearsed and overly elaborate for a spontaneous response. The overall articulation and depth of analysis raise concerns about potential AI assistance.",
+          "score": 3
+        }
+      }
+    },
+    "question": "Should all information on the Internet be fact-checked?"
+  },
+  {
+    "firstName": "TIAN",
+    "lastName": "FANG",
+    "email": "tianfang2025@outlook.com",
+    "attemptId": "5c2f3732660122288f9dfad9",
+    "s3Path": "s3://ai-interview-aiinterviewbucket-ekdgigsxg8fj/videos/Webm/7ac5600c-08dc-45b6-8643-1a185f93f0d0.webm",
+    "presignedURL": "https://ai-interview-aiinterviewbucket-ekdgigsxg8fj.s3.ap-southeast-1.amazonaws.com/videos/Webm/7ac5600c-08dc-45b6-8643-1a185f93f0d0.webm?response-content-disposition=inline&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLXNvdXRoZWFzdC0xIkcwRQIgB33Qc4CyFMuci5CMsz%2BJneGuLlj09uVBWEkPtw6252ICIQDV%2BBIic1zylhGRyk29C6Q1KIknDy4tnM6OoMZzBWYa1irWAwhFEAMaDDU1NzAwODgzMDI0NyIMCkgqJCxlwYOtVuw7KrMDGm2EMFAa8my%2FnwP5qt97Z0F5z3RL4PS%2Bs8ycm4vsD8iFjG6IrUwCV2ZbMxrUkQ%2BbXQx26IJdSZVRUaiXGZaugHp%2BYbVqIuk2k8wyMPAJ0DzuSXv5xheWhD2ra2YnjyVAL51swFcERw0kCBlG4%2BjUX2LrbzjUGLHm7CtHVzOwZttXTi24ShZkgbHLIMnNKv8WAaAc%2BxHZHhyxehqTIzDw7NLqtoU0021gFdLQZrf36db6XfWPIGItSlDDwTO2KIBl3YDw7TlW61IfcZgd47KZp0r%2F%2FwIHWhni3raHoufo76YDcT3AdDYDGGV2b9jsndWJY08N38vEmCTjVgGFK%2BLVz8sqIV%2FKP3JODGx%2F%2FtFt4GmAV62a8iVvp5%2FOuQwTUncMCWvPUV3hgsz5L%2BMzCa%2BWAweNso9GSMB7VJ6Frox0f8JY02Apb2JXouZqYDMfbDUqRg%2Baam7omSEjY%2FdeYxfY7%2Bv8tCojSf9yyBxo2g9mn3%2FZB0uN7simaljSpx8%2BR04n9lEVefiaXdzdWEHSh7%2BTcqYWx6MIutr%2ByunfPKTogxSRJpJkO8BsCLCEdg00PkQexUDMMN2inMEGOt4CKWbSHxJQRVOf7l8GDCfOjt50EIY8Git6953UEeGc5zB%2F1QRXKUiYhpzDfF3vw30UYaA%2Fw7WO2L6mM4oGMdwCTIFYRaPVRYR%2FuRJ4juS00KJ4PvZ6WHtyrfDOMEjcEGf5dCfUWZ2zoLRvn8kx0Ft%2B2Qy1WjPHwv9rB7eVDGsurXYea9R3WVaoH9LZ1AbwiBsw5Onrw%2BSgHWUGTCSgZZYkRGrH6KsJfilEfLIhRyBJoUObBDJ%2F1N7evV3P6yjH1lwJZRV5Gos02oXuQjng0IB%2Bp%2FEuBrnhYRnvqdN2wsOpLR5%2FUCb8pNot4sHwiHM%2BREkzFex4iKQbFPC%2FOLexxNgW1fFDa%2FNXnTlrExUiB1aQZHmW%2FRAPECR1445D1sX9ofSuhPOslpEnhoB2VQzITuSvL2%2FahdldvUweoWB64rGz19NsqEfaQW1TTINd6%2F%2Fiw3oJSVmgD%2Fbk3x0EBdKFNAA%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAYDMCQH4TW53NJTP2%2F20250516%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20250516T113603Z&X-Amz-Expires=43200&X-Amz-SignedHeaders=host&X-Amz-Signature=266871a98ffe33bdcd69eff42f0fb15b753d0a1ee34a94c86fa25cff2e70de9e",
+    "localPath": "C:\\Users\\fata-\\Documents\\personal\\AGA\\experiment-severe-weakness\\hku_videos\\7ac5600c-08dc-45b6-8643-1a185f93f0d0.webm.webm",
+    "analysis": {
+      "visual": {
+        "attire": {
+          "justification": "The candidate is wearing a plain white t-shirt, which is acceptable but not ideal for an interview. A more professional shirt would be better.",
+          "score": 7
+        },
+        "background": {
+          "justification": "The background is very distracting. There is a bed and clothes visible. The framing is also poor, as the candidate is too close to the camera.",
+          "score": 2
+        },
+        "videoQuality": {
+          "justification": "The video has poor lighting and the background is distracting. The framing is also not ideal, as the candidate is positioned too close to the camera.",
+          "score": 5
+        },
+        "appearance": {
+          "justification": "The candidate's hair is unkempt, and the background is messy, which detracts from a professional appearance. The candidate should have taken more care in their appearance and the setting for the interview.",
+          "score": 5
+        },
+        "eyeContact": {
+          "justification": "The candidate's eye contact is poor. He looks away from the camera frequently, and his gaze is not consistently directed at the interviewer. This lack of eye contact can make it difficult to connect with the candidate and assess his engagement and sincerity. [00:00:03]",
+          "score": 4
+        }
+      },
+      "audio": {
+        "delivery": {
+          "justification": "The candidate's speech delivery is monotone and lacks energy, making it difficult to maintain engagement. There are also frequent pauses and filler words like \"um\" that disrupt the flow of speech. The overall effect is a dull and uninspired presentation.",
+          "score": 4
+        },
+        "pronunciation": {
+          "justification": "The candidate's pronunciation is generally understandable, but there are several instances of filler words (\"um,\" \"uh,\" \"so\") and hesitations that slightly detract from the clarity and flow of their speech. These issues do not significantly impede understanding but could be improved for a more polished presentation.",
+          "score": 7
+        },
+        "accent": {
+          "justification": "The candidate's accent is noticeable and occasionally affects clarity, requiring some effort to fully understand the response. The pronunciation of certain words is not always clear, which can momentarily disrupt the flow of comprehension.",
+          "score": 6
+        }
+      },
+      "content": {
+        "irrelevantResponses": {
+          "justification": "The candidate struggles to provide a clear and concise definition of critical thinking. The response is vague and lacks specific examples or practical applications. The candidate also struggles to articulate how to assess critical thinking skills, offering only general suggestions like exams or problem-solving events. The response lacks depth and clarity, indicating a limited understanding of the topic.",
+          "score": 4
+        },
+        "fillerWords": {
+          "justification": "The candidate uses filler words such as \"um\" and \"so\" excessively throughout the response. The candidate uses filler words in almost every sentence.",
+          "score": 3
+        },
+        "pauses": {
+          "justification": "The candidate uses filler words like \"um\" and \"so\" excessively throughout the response, disrupting the flow and making the answer sound unprepared. The pauses are also frequent and lengthy, indicating difficulty in articulating thoughts clearly. (0:03, 0:08, 0:11, 0:13, 0:19, 0:21, 0:26, 0:31, 0:35, 0:39, 0:43, 0:47, 0:51, 0:53, 1:04, 1:07, 1:11, 1:14)",
+          "score": 3
+        },
+        "grammar": {
+          "justification": "The candidate's grammar and language skills are weak. There are frequent pauses, filler words (\"um,\" \"so\"), and incomplete or rambling sentences. The candidate struggles to articulate thoughts clearly and concisely, leading to a lack of fluency and coherence in their response. The candidate also uses the word \"contributive\" which is not a word. Timestamp: 0:03, 0:08, 0:13, 0:21, 0:28, 0:32, 0:35, 0:44, 0:47, 0:52, 0:59, 1:04, 1:07",
+          "score": 3
+        },
+        "structure": {
+          "justification": "The response is disorganized and lacks a clear structure. The candidate struggles to articulate a coherent definition of critical thinking and how to assess it. The answer meanders and lacks focus, making it difficult to follow the candidate's line of reasoning. The candidate uses filler words such as \"um\" and \"so\" frequently, which further detracts from the clarity of the response. (0:03-0:43)",
+          "score": 3
+        }
+      },
+      "irregularities": {
+        "language": {
+          "justification": "The candidate's response is somewhat vague and lacks depth. The candidate uses filler words like \"um\" and \"so\" frequently, which detracts from the clarity and professionalism of the response. The candidate's explanation of how to assess critical thinking is not very specific or insightful. [00:00:03]",
+          "score": 5
+        },
+        "behavior": {
+          "justification": "The candidate's response is somewhat vague and lacks depth. He struggles to articulate a clear definition of critical thinking and how to assess it. The response is also filled with filler words like \"um\" and \"so,\" which detract from the clarity and professionalism of the answer. [00:00:03] - [00:00:58]",
+          "score": 6
+        },
+        "videoIrregularities": {
+          "justification": "The candidate's response is somewhat vague and lacks specific examples or a clear structure. The response is also filled with filler words like \"um\" and \"so\" which detract from the clarity and impact of the answer. The candidate also struggles to articulate a clear definition of critical thinking and how to assess it, resulting in a somewhat rambling and unfocused response. [00:00:03] - [00:00:08]",
+          "score": 5
+        },
+        "aiCheating": {
+          "justification": "The candidate's response is somewhat vague and lacks depth. The candidate uses filler words like \"um\" and \"so\" frequently, and the response is not well-structured. The candidate's vocabulary is also limited, and the candidate does not provide any specific examples to support their claims. The candidate's response is also somewhat repetitive, and the candidate does not seem to have a strong understanding of the topic. The candidate's response is also somewhat disorganized, and the candidate does not seem to have a clear plan for how to answer the question. [00:00:03] [00:00:08] [00:00:10] [00:00:13] [00:00:19] [00:00:21] [00:00:26] [00:00:32] [00:00:35] [00:00:39] [00:00:44] [00:00:47] [00:00:51] [00:00:53] [00:00:59] [00:01:04] [00:01:11] [00:01:14] [00:01:18]",
+          "score": 4
+        }
+      }
+    },
+    "question": "What is critical thinking and how to assess it?"
+  },
+  {
+    "firstName": "ZHINUO",
+    "lastName": "JI",
+    "email": "dudanning@hotmail.com",
+    "attemptId": "d6ddf07c70d77748e74f645a",
+    "s3Path": "s3://ai-interview-aiinterviewbucket-ekdgigsxg8fj/videos/Webm/a8b9dc92-a6e7-4c8f-90d1-7debf90fd80a.webm",
+    "presignedURL": "https://ai-interview-aiinterviewbucket-ekdgigsxg8fj.s3.ap-southeast-1.amazonaws.com/videos/Webm/a8b9dc92-a6e7-4c8f-90d1-7debf90fd80a.webm?response-content-disposition=inline&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLXNvdXRoZWFzdC0xIkcwRQIgB33Qc4CyFMuci5CMsz%2BJneGuLlj09uVBWEkPtw6252ICIQDV%2BBIic1zylhGRyk29C6Q1KIknDy4tnM6OoMZzBWYa1irWAwhFEAMaDDU1NzAwODgzMDI0NyIMCkgqJCxlwYOtVuw7KrMDGm2EMFAa8my%2FnwP5qt97Z0F5z3RL4PS%2Bs8ycm4vsD8iFjG6IrUwCV2ZbMxrUkQ%2BbXQx26IJdSZVRUaiXGZaugHp%2BYbVqIuk2k8wyMPAJ0DzuSXv5xheWhD2ra2YnjyVAL51swFcERw0kCBlG4%2BjUX2LrbzjUGLHm7CtHVzOwZttXTi24ShZkgbHLIMnNKv8WAaAc%2BxHZHhyxehqTIzDw7NLqtoU0021gFdLQZrf36db6XfWPIGItSlDDwTO2KIBl3YDw7TlW61IfcZgd47KZp0r%2F%2FwIHWhni3raHoufo76YDcT3AdDYDGGV2b9jsndWJY08N38vEmCTjVgGFK%2BLVz8sqIV%2FKP3JODGx%2F%2FtFt4GmAV62a8iVvp5%2FOuQwTUncMCWvPUV3hgsz5L%2BMzCa%2BWAweNso9GSMB7VJ6Frox0f8JY02Apb2JXouZqYDMfbDUqRg%2Baam7omSEjY%2FdeYxfY7%2Bv8tCojSf9yyBxo2g9mn3%2FZB0uN7simaljSpx8%2BR04n9lEVefiaXdzdWEHSh7%2BTcqYWx6MIutr%2ByunfPKTogxSRJpJkO8BsCLCEdg00PkQexUDMMN2inMEGOt4CKWbSHxJQRVOf7l8GDCfOjt50EIY8Git6953UEeGc5zB%2F1QRXKUiYhpzDfF3vw30UYaA%2Fw7WO2L6mM4oGMdwCTIFYRaPVRYR%2FuRJ4juS00KJ4PvZ6WHtyrfDOMEjcEGf5dCfUWZ2zoLRvn8kx0Ft%2B2Qy1WjPHwv9rB7eVDGsurXYea9R3WVaoH9LZ1AbwiBsw5Onrw%2BSgHWUGTCSgZZYkRGrH6KsJfilEfLIhRyBJoUObBDJ%2F1N7evV3P6yjH1lwJZRV5Gos02oXuQjng0IB%2Bp%2FEuBrnhYRnvqdN2wsOpLR5%2FUCb8pNot4sHwiHM%2BREkzFex4iKQbFPC%2FOLexxNgW1fFDa%2FNXnTlrExUiB1aQZHmW%2FRAPECR1445D1sX9ofSuhPOslpEnhoB2VQzITuSvL2%2FahdldvUweoWB64rGz19NsqEfaQW1TTINd6%2F%2Fiw3oJSVmgD%2Fbk3x0EBdKFNAA%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAYDMCQH4TW53NJTP2%2F20250516%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20250516T113638Z&X-Amz-Expires=43200&X-Amz-SignedHeaders=host&X-Amz-Signature=2c2326872dc386f74df74f945c0fcbc168812a1869750fc787e0a4530e043f41",
+    "localPath": "C:\\Users\\fata-\\Documents\\personal\\AGA\\experiment-severe-weakness\\hku_videos\\a8b9dc92-a6e7-4c8f-90d1-7debf90fd80a.webm.webm",
+    "analysis": {
+      "visual": {
+        "attire": {
+          "justification": "The candidate's attire is too casual for an interview setting. A more professional top would be more appropriate.",
+          "score": 6
+        },
+        "background": {
+          "justification": "The background is cluttered and distracting, with a striped pillow, a radiator, and a framed picture visible. This detracts from the candidate's professionalism and focus.",
+          "score": 3
+        },
+        "videoQuality": {
+          "justification": "The video has poor lighting and the background is distracting. The candidate also has a lot of filler words and pauses, making it difficult to follow their train of thought.",
+          "score": 5
+        },
+        "appearance": {
+          "justification": "The candidate's appearance is not professional. The candidate is wearing a casual jacket and the background is cluttered. This gives the impression that the candidate did not prepare for the interview.",
+          "score": 5
+        },
+        "eyeContact": {
+          "justification": "The candidate's eye contact is very poor. She rarely looks directly at the camera, and her gaze drifts frequently, indicating a lack of engagement and preparation. This significantly detracts from her ability to connect with the interviewer.",
+          "score": 2
+        }
+      },
+      "audio": {
+        "delivery": {
+          "justification": "The candidate's speech delivery is monotone and hesitant, with frequent pauses and filler words like \"uh\" and \"um.\" This significantly impacts comprehension and engagement. The lack of vocal variety and fluency makes it difficult to follow the candidate's train of thought.",
+          "score": 3
+        },
+        "pronunciation": {
+          "justification": "The candidate's pronunciation significantly hinders understanding. Frequent mispronunciations and hesitations disrupt the flow of speech, making it difficult to follow the argument. Examples include struggling with words like \"fact-checked\" and \"misleading\" throughout the response.",
+          "score": 3
+        },
+        "accent": {
+          "justification": "The candidate's accent significantly impacts comprehension. There are frequent pauses and hesitations, and the pronunciation of certain words is unclear, making it difficult to follow the flow of the response. [00:00:17], [00:00:20], [00:00:48], [00:01:16]",
+          "score": 3
+        }
+      },
+      "content": {
+        "irrelevantResponses": {
+          "justification": "The candidate's response is somewhat relevant, but it is delivered with significant hesitation and a lack of clarity. The response is difficult to follow and lacks a strong, coherent argument. The candidate struggles to articulate their thoughts effectively, which detracts from the overall quality of the answer. [00:00:18] [00:00:21] [00:00:59] [00:01:16]",
+          "score": 5
+        },
+        "fillerWords": {
+          "justification": "The candidate uses excessive filler words throughout the response, including \"uh,\" \"um,\" and repeated phrases like \"and uh.\" This significantly disrupts the flow of speech and makes it difficult to follow the candidate's train of thought. The frequency of these fillers exceeds 5 per sentence, indicating a critical issue with fluency and preparedness. [00:00:08], [00:00:10], [00:00:13], [00:00:17], [00:00:20], [00:00:23], [00:00:25], [00:00:27], [00:00:30], [00:00:33], [00:00:35], [00:00:39], [00:00:41], [00:00:45], [00:01:00], [00:01:03], [00:01:04], [00:01:06], [00:01:15], [00:01:16], [00:01:19], [00:01:24], [00:01:27], [00:01:33], [00:01:34], [00:01:38], [00:01:40], [00:01:44], [00:01:47], [00:01:57]",
+          "score": 1
+        },
+        "pauses": {
+          "justification": "The candidate has multiple long pauses throughout the video, especially at [00:00:17], [00:00:57], [00:01:16], and [00:01:44]. These pauses disrupt the flow of the interview and make it difficult to follow the candidate's train of thought.",
+          "score": 3
+        },
+        "grammar": {
+          "justification": "The candidate's grammar and language skills are weak. There are frequent pauses, hesitations, and incomplete sentences throughout the response. The candidate struggles to articulate thoughts clearly and uses filler words like \"uh\" and \"um\" excessively. The sentence structure is often awkward, and there are noticeable errors in word choice and usage. For example, at [00:00:21] the candidate says \"this is the world full of information\" instead of \"this is a world full of information\".",
+          "score": 3
+        },
+        "structure": {
+          "justification": "The response lacks a clear structure and jumps between ideas without a logical flow. The candidate struggles to articulate her points effectively, resulting in a disorganized and confusing presentation. The response is difficult to follow and lacks a clear thesis or argument.",
+          "score": 3
+        }
+      },
+      "irregularities": {
+        "language": {
+          "justification": "The candidate's English is very poor. She struggles to find the right words, pauses frequently, and makes grammatical errors throughout the response. The language barrier significantly impacts her ability to communicate effectively.",
+          "score": 2
+        },
+        "behavior": {
+          "justification": "The candidate's response is disorganized and difficult to follow. She uses filler words and pauses frequently, which disrupts the flow of her speech. Additionally, her language is vague and lacks precision, making it hard to understand her points. The candidate also struggles to articulate her thoughts clearly, resulting in a response that is confusing and lacks coherence. [00:00:17] [00:00:20] [00:00:57]",
+          "score": 4
+        },
+        "videoIrregularities": {
+          "justification": "The candidate's response is somewhat disorganized and lacks clarity. There are several pauses and filler words, such as \"uh\" and \"um,\" which disrupt the flow of speech. Additionally, the candidate struggles to articulate her thoughts effectively, leading to some ambiguity in her message. [00:00:17] [00:00:20] [00:00:57]",
+          "score": 5
+        },
+        "aiCheating": {
+          "justification": "The candidate's response is filled with filler words and phrases like \"uh,\" \"um,\" and repetitive sentence structures. The vocabulary used is basic, and the ideas are not clearly articulated. There are also noticeable pauses and hesitations, suggesting a lack of fluency and potentially indicating reliance on AI assistance to generate the response. The overall quality of the response is low, with poor grammar and coherence.",
+          "score": 2
+        }
+      }
+    },
+    "question": "Should all information on the Internet be fact-checked?"
+  },
+  {
+    "firstName": "YIHAN",
+    "lastName": "LI",
+    "email": "liyihandang65@gmail.com",
+    "attemptId": "70b25d1e5e2f0e3b73b75c37",
+    "s3Path": "s3://ai-interview-aiinterviewbucket-ekdgigsxg8fj/videos/Webm/8e911613-84aa-4cb7-91b8-4dfd6e01e9a8.webm",
+    "presignedURL": "https://ai-interview-aiinterviewbucket-ekdgigsxg8fj.s3.ap-southeast-1.amazonaws.com/videos/Webm/8e911613-84aa-4cb7-91b8-4dfd6e01e9a8.webm?response-content-disposition=inline&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLXNvdXRoZWFzdC0xIkcwRQIgB33Qc4CyFMuci5CMsz%2BJneGuLlj09uVBWEkPtw6252ICIQDV%2BBIic1zylhGRyk29C6Q1KIknDy4tnM6OoMZzBWYa1irWAwhFEAMaDDU1NzAwODgzMDI0NyIMCkgqJCxlwYOtVuw7KrMDGm2EMFAa8my%2FnwP5qt97Z0F5z3RL4PS%2Bs8ycm4vsD8iFjG6IrUwCV2ZbMxrUkQ%2BbXQx26IJdSZVRUaiXGZaugHp%2BYbVqIuk2k8wyMPAJ0DzuSXv5xheWhD2ra2YnjyVAL51swFcERw0kCBlG4%2BjUX2LrbzjUGLHm7CtHVzOwZttXTi24ShZkgbHLIMnNKv8WAaAc%2BxHZHhyxehqTIzDw7NLqtoU0021gFdLQZrf36db6XfWPIGItSlDDwTO2KIBl3YDw7TlW61IfcZgd47KZp0r%2F%2FwIHWhni3raHoufo76YDcT3AdDYDGGV2b9jsndWJY08N38vEmCTjVgGFK%2BLVz8sqIV%2FKP3JODGx%2F%2FtFt4GmAV62a8iVvp5%2FOuQwTUncMCWvPUV3hgsz5L%2BMzCa%2BWAweNso9GSMB7VJ6Frox0f8JY02Apb2JXouZqYDMfbDUqRg%2Baam7omSEjY%2FdeYxfY7%2Bv8tCojSf9yyBxo2g9mn3%2FZB0uN7simaljSpx8%2BR04n9lEVefiaXdzdWEHSh7%2BTcqYWx6MIutr%2ByunfPKTogxSRJpJkO8BsCLCEdg00PkQexUDMMN2inMEGOt4CKWbSHxJQRVOf7l8GDCfOjt50EIY8Git6953UEeGc5zB%2F1QRXKUiYhpzDfF3vw30UYaA%2Fw7WO2L6mM4oGMdwCTIFYRaPVRYR%2FuRJ4juS00KJ4PvZ6WHtyrfDOMEjcEGf5dCfUWZ2zoLRvn8kx0Ft%2B2Qy1WjPHwv9rB7eVDGsurXYea9R3WVaoH9LZ1AbwiBsw5Onrw%2BSgHWUGTCSgZZYkRGrH6KsJfilEfLIhRyBJoUObBDJ%2F1N7evV3P6yjH1lwJZRV5Gos02oXuQjng0IB%2Bp%2FEuBrnhYRnvqdN2wsOpLR5%2FUCb8pNot4sHwiHM%2BREkzFex4iKQbFPC%2FOLexxNgW1fFDa%2FNXnTlrExUiB1aQZHmW%2FRAPECR1445D1sX9ofSuhPOslpEnhoB2VQzITuSvL2%2FahdldvUweoWB64rGz19NsqEfaQW1TTINd6%2F%2Fiw3oJSVmgD%2Fbk3x0EBdKFNAA%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAYDMCQH4TW53NJTP2%2F20250516%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20250516T113706Z&X-Amz-Expires=43200&X-Amz-SignedHeaders=host&X-Amz-Signature=bc8c2b4c6d6e04f746307b0ecf39ab7d1850176b175eae1fdb585ebfa2ea7e88",
+    "localPath": "C:\\Users\\fata-\\Documents\\personal\\AGA\\experiment-severe-weakness\\hku_videos\\8e911613-84aa-4cb7-91b8-4dfd6e01e9a8.webm.webm",
+    "analysis": {
+      "visual": {
+        "attire": {
+          "justification": "The candidate is wearing a hoodie with a cartoon character on it. This is not appropriate attire for an interview, even a video interview. It conveys a lack of seriousness and professionalism.",
+          "score": 3
+        },
+        "background": {
+          "justification": "The background is a wooden cabinet with cartoon stickers. This is highly unprofessional and distracting.",
+          "score": 2
+        },
+        "videoQuality": {
+          "justification": "The video quality is acceptable, but the background is distracting and unprofessional. The candidate is wearing a hoodie, which is not ideal for an interview setting. The lighting is adequate, but could be improved. Overall, the video quality is not terrible, but it could be much better.",
+          "score": 6
+        },
+        "appearance": {
+          "justification": "The candidate's attire (hoodie) and background (cartoonish wall) are not professional for an interview setting. This detracts from the seriousness of the interview.",
+          "score": 5
+        },
+        "eyeContact": {
+          "justification": "The candidate's eye contact is inconsistent and often looks down or away from the camera. This lack of engagement detracts from the overall presentation. The candidate looks down for a significant amount of time at [00:00:05], [00:00:30], and [00:01:23].",
+          "score": 5
+        }
+      },
+      "audio": {
+        "delivery": {
+          "justification": "The candidate's speech delivery is monotone and lacks enthusiasm, making it difficult to maintain engagement. There are also noticeable pauses and hesitations throughout the response, which disrupt the flow and clarity of the message.",
+          "score": 4
+        },
+        "pronunciation": {
+          "justification": "The candidate's pronunciation is not clear and there are many mispronunciations that hinder understanding. For example, the candidate mispronounces \"benefit\" at [00:00:11], \"enhance\" at [00:00:16], \"academically\" at [00:00:24], and \"tutoring\" at [00:00:46].",
+          "score": 3
+        },
+        "accent": {
+          "justification": "The candidate's accent is noticeable and occasionally impacts clarity. There are moments where the pronunciation of certain words requires extra attention to understand, but overall, the accent does not severely impede comprehension.",
+          "score": 6
+        }
+      },
+      "content": {
+        "irrelevantResponses": {
+          "justification": "The candidate's response is somewhat relevant to the question, but it lacks depth and clarity. The arguments presented are not well-developed, and the overall presentation is weak. The candidate struggles to articulate a clear position on the topic of banning private tutoring. The candidate also has a lot of filler words and pauses.",
+          "score": 5
+        },
+        "fillerWords": {
+          "justification": "The candidate uses filler words such as \"um\" and \"so\" frequently throughout the response. At [00:00:02] the candidate uses \"I think\" and \"in my opinion\" which is redundant. At [00:00:27] the candidate uses \"also\" which is a filler word. At [00:00:44] the candidate uses \"but\" which is a filler word. At [00:01:29] the candidate uses \"so\" which is a filler word.",
+          "score": 3
+        },
+        "pauses": {
+          "justification": "The candidate has several pauses throughout the video. The pauses are disruptive and affect the flow of the interview. 0:30, 0:44, 1:14",
+          "score": 4
+        },
+        "grammar": {
+          "justification": "The candidate's grammar and language skills are weak. There are frequent grammatical errors, awkward phrasing, and incomplete sentences throughout the response. For example, at [00:00:02], the candidate says \"In my opinion, I think...\" which is redundant. At [00:00:09], the candidate says \"students can be benefit from...\" which is grammatically incorrect. At [00:00:31], the candidate says \"the tutors can get some money from the private tutoring and it is beneficial for the economic of our country.\" which is grammatically incorrect. At [00:01:04], the candidate says \"choose to use to choose to the private tutoring\" which is redundant and grammatically incorrect.",
+          "score": 3
+        },
+        "structure": {
+          "justification": "The response lacks a clear structure. The candidate presents arguments for and against private tutoring without a clear thesis or organization. The points are somewhat disjointed and lack a cohesive flow, making it difficult to follow the overall argument effectively. The conclusion doesn't summarize the main points or provide a strong closing statement.",
+          "score": 5
+        }
+      },
+      "irregularities": {
+        "language": {
+          "justification": "The candidate's language skills are not strong. She struggles to articulate her thoughts clearly and uses repetitive phrases like \"it can be good to\" and \"I think.\" Her grammar is also not perfect, and she makes some pronunciation errors. Overall, her language skills are not at the level expected for a professional interview.",
+          "score": 5
+        },
+        "behavior": {
+          "justification": "The candidate's attire (a hoodie with a cartoon bear) and the background (a wooden cabinet with cartoon characters) are inappropriate for a professional interview setting. This detracts from the seriousness of the interview and suggests a lack of preparation or understanding of professional norms.",
+          "score": 5
+        },
+        "videoIrregularities": {
+          "justification": "The candidate's response is somewhat disjointed and lacks a clear, structured argument. There are several instances where the candidate struggles to articulate her thoughts, leading to pauses and filler words. Additionally, the candidate's points are not always logically connected, making it difficult to follow the overall line of reasoning. The background is also not professional. [00:00:30] [00:00:47] [00:01:08]",
+          "score": 5
+        },
+        "aiCheating": {
+          "justification": "The candidate's response contains several grammatical errors and awkward phrasing, such as \"students can be benefit from\" at [00:00:10] and \"it can lead to the bad competition\" at [00:00:59]. These errors, combined with the candidate's limited vocabulary and difficulty expressing complex ideas, suggest a low level of English proficiency. However, the candidate also uses some sophisticated vocabulary and concepts, such as \"enhance our learning methods\" at [00:00:17] and \"rounded person characteristics\" at [00:01:23], which seems inconsistent with the overall level of English proficiency. This mismatch raises suspicion that the candidate may have used AI assistance to generate parts of the response.",
+          "score": 4
+        }
+      }
+    },
+    "question": "Should private tutoring be banned?"
+  },
+  {
+    "firstName": "ZIMENG",
+    "lastName": "LI",
+    "email": "19802462277@139.com",
+    "attemptId": "79de86e599e87992047c0c5e",
+    "s3Path": "s3://ai-interview-aiinterviewbucket-ekdgigsxg8fj/videos/Webm/324657a3-e818-4b5b-b640-769a4d46c836.webm",
+    "presignedURL": "https://ai-interview-aiinterviewbucket-ekdgigsxg8fj.s3.ap-southeast-1.amazonaws.com/videos/Webm/324657a3-e818-4b5b-b640-769a4d46c836.webm?response-content-disposition=inline&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLXNvdXRoZWFzdC0xIkcwRQIgB33Qc4CyFMuci5CMsz%2BJneGuLlj09uVBWEkPtw6252ICIQDV%2BBIic1zylhGRyk29C6Q1KIknDy4tnM6OoMZzBWYa1irWAwhFEAMaDDU1NzAwODgzMDI0NyIMCkgqJCxlwYOtVuw7KrMDGm2EMFAa8my%2FnwP5qt97Z0F5z3RL4PS%2Bs8ycm4vsD8iFjG6IrUwCV2ZbMxrUkQ%2BbXQx26IJdSZVRUaiXGZaugHp%2BYbVqIuk2k8wyMPAJ0DzuSXv5xheWhD2ra2YnjyVAL51swFcERw0kCBlG4%2BjUX2LrbzjUGLHm7CtHVzOwZttXTi24ShZkgbHLIMnNKv8WAaAc%2BxHZHhyxehqTIzDw7NLqtoU0021gFdLQZrf36db6XfWPIGItSlDDwTO2KIBl3YDw7TlW61IfcZgd47KZp0r%2F%2FwIHWhni3raHoufo76YDcT3AdDYDGGV2b9jsndWJY08N38vEmCTjVgGFK%2BLVz8sqIV%2FKP3JODGx%2F%2FtFt4GmAV62a8iVvp5%2FOuQwTUncMCWvPUV3hgsz5L%2BMzCa%2BWAweNso9GSMB7VJ6Frox0f8JY02Apb2JXouZqYDMfbDUqRg%2Baam7omSEjY%2FdeYxfY7%2Bv8tCojSf9yyBxo2g9mn3%2FZB0uN7simaljSpx8%2BR04n9lEVefiaXdzdWEHSh7%2BTcqYWx6MIutr%2ByunfPKTogxSRJpJkO8BsCLCEdg00PkQexUDMMN2inMEGOt4CKWbSHxJQRVOf7l8GDCfOjt50EIY8Git6953UEeGc5zB%2F1QRXKUiYhpzDfF3vw30UYaA%2Fw7WO2L6mM4oGMdwCTIFYRaPVRYR%2FuRJ4juS00KJ4PvZ6WHtyrfDOMEjcEGf5dCfUWZ2zoLRvn8kx0Ft%2B2Qy1WjPHwv9rB7eVDGsurXYea9R3WVaoH9LZ1AbwiBsw5Onrw%2BSgHWUGTCSgZZYkRGrH6KsJfilEfLIhRyBJoUObBDJ%2F1N7evV3P6yjH1lwJZRV5Gos02oXuQjng0IB%2Bp%2FEuBrnhYRnvqdN2wsOpLR5%2FUCb8pNot4sHwiHM%2BREkzFex4iKQbFPC%2FOLexxNgW1fFDa%2FNXnTlrExUiB1aQZHmW%2FRAPECR1445D1sX9ofSuhPOslpEnhoB2VQzITuSvL2%2FahdldvUweoWB64rGz19NsqEfaQW1TTINd6%2F%2Fiw3oJSVmgD%2Fbk3x0EBdKFNAA%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAYDMCQH4TW53NJTP2%2F20250516%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20250516T113739Z&X-Amz-Expires=43200&X-Amz-SignedHeaders=host&X-Amz-Signature=56517e703df129040ece50ce4d453b47c91dab200744efd070567bc73346087b",
+    "localPath": "C:\\Users\\fata-\\Documents\\personal\\AGA\\experiment-severe-weakness\\hku_videos\\324657a3-e818-4b5b-b640-769a4d46c836.webm.webm",
+    "analysis": {
+      "visual": {
+        "attire": {
+          "justification": "The candidate is wearing a casual sweatshirt, which is not appropriate for an interview setting. This gives the impression that the candidate is not taking the interview seriously.",
+          "score": 5
+        },
+        "background": {
+          "justification": "The background is a plain white wall with a door, which is not inherently distracting. However, the framing is too tight, cutting off the top of the candidate's head and making the shot feel cramped. This could be improved with better camera positioning or a wider field of view.",
+          "score": 6
+        },
+        "videoQuality": {
+          "justification": "The video quality is poor. The image is grainy and the lighting is not ideal, making it difficult to see the candidate clearly. Additionally, there is some background noise that could be distracting.",
+          "score": 5
+        },
+        "appearance": {
+          "justification": "The candidate's appearance is not professional. The hair is unkempt and the clothing is casual. This gives the impression that the candidate did not take the interview seriously. ",
+          "score": 4
+        },
+        "eyeContact": {
+          "justification": "The candidate frequently looks away from the camera, often upwards, suggesting she is reading or thinking extensively. This significantly reduces engagement and makes it difficult to connect with her points. The constant looking away is distracting and gives the impression of disinterest or lack of preparation. (0:00-0:03, 0:33, 0:51, 1:07, 1:18, 1:52)",
+          "score": 3
+        }
+      },
+      "audio": {
+        "delivery": {
+          "justification": "The candidate's speech delivery is monotone and lacks intonation, making it difficult to maintain engagement. There are also frequent pauses and hesitations, which disrupt the flow of speech and affect comprehension. The candidate also looks up and away from the camera frequently, which can be distracting for the viewer.",
+          "score": 3
+        },
+        "pronunciation": {
+          "justification": "The candidate's pronunciation is unclear and difficult to understand. There are frequent mispronunciations and hesitations throughout the response. The candidate also looks up and away from the camera frequently, which is distracting.",
+          "score": 3
+        },
+        "accent": {
+          "justification": "The candidate's accent is very strong and significantly impacts comprehension. There are frequent mispronunciations and unusual phrasing that make it difficult to follow the content of the response. The candidate also looks up and away from the camera frequently, which is distracting.",
+          "score": 3
+        }
+      },
+      "content": {
+        "irrelevantResponses": {
+          "justification": "The candidate provides a relevant answer to the question, discussing the negative impacts of loneliness on mental health and overall well-being. However, the response is somewhat disorganized and repetitive, with some grammatical errors and awkward phrasing. The candidate also looks up and to the side frequently, which can be distracting. Overall, the response demonstrates an understanding of the topic but lacks clarity and polish.",
+          "score": 6
+        },
+        "fillerWords": {
+          "justification": "The candidate uses filler words such as \"um\" and \"uh\" frequently throughout the interview, disrupting the flow and clarity of their responses. This detracts from the overall professionalism and impact of their communication. The candidate also repeats phrases and words, such as \"I think\" and \"may cause\", which further contributes to the perception of uncertainty and lack of fluency. The candidate also looks up and to the side frequently, which can be interpreted as a sign of nervousness or lack of preparation.",
+          "score": 3
+        },
+        "pauses": {
+          "justification": "The candidate has frequent and disruptive pauses throughout the interview, often searching for words or losing her train of thought. This significantly impacts the flow and clarity of her responses. For example, at [00:00:27], [00:00:33], [00:00:44], [00:01:07], [00:01:18], [00:01:26], [00:01:36], [00:01:53] the pauses are particularly noticeable and detract from the overall presentation.",
+          "score": 3
+        },
+        "grammar": {
+          "justification": "The candidate's grammar and language skills are very weak. There are frequent grammatical errors, incorrect word usage, and incomplete sentences throughout the video. The candidate struggles to express their thoughts clearly and concisely, making it difficult to understand their points. Examples include: \"loneliness is refers to our lack of friendship\", \"cause our lack of happiness\", \"a sense of uncertain\", \"be hurted\".",
+          "score": 2
+        },
+        "structure": {
+          "justification": "The response is very disorganized and difficult to follow. The candidate struggles to articulate their thoughts clearly, leading to a lack of coherence in their answers. There are frequent pauses, restarts, and a general sense of uncertainty in their delivery. The candidate also looks up and to the side frequently, which can be distracting and suggest a lack of confidence or preparation.",
+          "score": 3
+        }
+      },
+      "irregularities": {
+        "language": {
+          "justification": "The candidate's English is not very strong. She struggles to find the right words and phrases, and her grammar is often incorrect. This makes it difficult to understand her points and follow her line of reasoning. She also looks up and to the side frequently, suggesting she is reading from a script or notes.",
+          "score": 4
+        },
+        "behavior": {
+          "justification": "The candidate's eye movements are very distracting. She looks up and to the side frequently, suggesting she is reading from notes or struggling to recall information. This significantly impacts her credibility and engagement. Additionally, there is a scratching sound at the beginning of the video. [00:00:00-00:00:02]",
+          "score": 4
+        },
+        "videoIrregularities": {
+          "justification": "The video shows signs of digital manipulation. The candidate's movements appear unnatural, and there are subtle distortions in the background, suggesting potential AI involvement.",
+          "score": 3
+        },
+        "aiCheating": {
+          "justification": "The candidate's response contains several grammatical errors and awkward phrasing, suggesting a lack of fluency in English. Additionally, the vocabulary used seems somewhat advanced for the level of proficiency displayed, raising suspicion of AI assistance. The candidate also looks up frequently, which could indicate that they are reading from a script or notes.",
+          "score": 3
+        }
+      }
+    },
+    "question": "Why can loneliness be bad for one’s health?"
+  },
+  {
+    "firstName": "YURUI",
+    "lastName": "CHEN",
+    "email": "chenyurui202501@163.com",
+    "attemptId": "05819eb07c7925c72d012a7e",
+    "s3Path": "s3://ai-interview-aiinterviewbucket-ekdgigsxg8fj/videos/Webm/f3715090-9a41-4016-857d-b961b62330e5.webm",
+    "presignedURL": "https://ai-interview-aiinterviewbucket-ekdgigsxg8fj.s3.ap-southeast-1.amazonaws.com/videos/Webm/f3715090-9a41-4016-857d-b961b62330e5.webm?response-content-disposition=inline&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLXNvdXRoZWFzdC0xIkcwRQIgB33Qc4CyFMuci5CMsz%2BJneGuLlj09uVBWEkPtw6252ICIQDV%2BBIic1zylhGRyk29C6Q1KIknDy4tnM6OoMZzBWYa1irWAwhFEAMaDDU1NzAwODgzMDI0NyIMCkgqJCxlwYOtVuw7KrMDGm2EMFAa8my%2FnwP5qt97Z0F5z3RL4PS%2Bs8ycm4vsD8iFjG6IrUwCV2ZbMxrUkQ%2BbXQx26IJdSZVRUaiXGZaugHp%2BYbVqIuk2k8wyMPAJ0DzuSXv5xheWhD2ra2YnjyVAL51swFcERw0kCBlG4%2BjUX2LrbzjUGLHm7CtHVzOwZttXTi24ShZkgbHLIMnNKv8WAaAc%2BxHZHhyxehqTIzDw7NLqtoU0021gFdLQZrf36db6XfWPIGItSlDDwTO2KIBl3YDw7TlW61IfcZgd47KZp0r%2F%2FwIHWhni3raHoufo76YDcT3AdDYDGGV2b9jsndWJY08N38vEmCTjVgGFK%2BLVz8sqIV%2FKP3JODGx%2F%2FtFt4GmAV62a8iVvp5%2FOuQwTUncMCWvPUV3hgsz5L%2BMzCa%2BWAweNso9GSMB7VJ6Frox0f8JY02Apb2JXouZqYDMfbDUqRg%2Baam7omSEjY%2FdeYxfY7%2Bv8tCojSf9yyBxo2g9mn3%2FZB0uN7simaljSpx8%2BR04n9lEVefiaXdzdWEHSh7%2BTcqYWx6MIutr%2ByunfPKTogxSRJpJkO8BsCLCEdg00PkQexUDMMN2inMEGOt4CKWbSHxJQRVOf7l8GDCfOjt50EIY8Git6953UEeGc5zB%2F1QRXKUiYhpzDfF3vw30UYaA%2Fw7WO2L6mM4oGMdwCTIFYRaPVRYR%2FuRJ4juS00KJ4PvZ6WHtyrfDOMEjcEGf5dCfUWZ2zoLRvn8kx0Ft%2B2Qy1WjPHwv9rB7eVDGsurXYea9R3WVaoH9LZ1AbwiBsw5Onrw%2BSgHWUGTCSgZZYkRGrH6KsJfilEfLIhRyBJoUObBDJ%2F1N7evV3P6yjH1lwJZRV5Gos02oXuQjng0IB%2Bp%2FEuBrnhYRnvqdN2wsOpLR5%2FUCb8pNot4sHwiHM%2BREkzFex4iKQbFPC%2FOLexxNgW1fFDa%2FNXnTlrExUiB1aQZHmW%2FRAPECR1445D1sX9ofSuhPOslpEnhoB2VQzITuSvL2%2FahdldvUweoWB64rGz19NsqEfaQW1TTINd6%2F%2Fiw3oJSVmgD%2Fbk3x0EBdKFNAA%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAYDMCQH4TW53NJTP2%2F20250516%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20250516T113820Z&X-Amz-Expires=43200&X-Amz-SignedHeaders=host&X-Amz-Signature=62061eb73e00196d84a64b03b328607e9221f8fed45d1e3ced43016ccfa7d83e",
+    "localPath": "C:\\Users\\fata-\\Documents\\personal\\AGA\\experiment-severe-weakness\\hku_videos\\f3715090-9a41-4016-857d-b961b62330e5.webm.webm",
+    "analysis": {
+      "visual": {
+        "attire": {
+          "justification": "The candidate is wearing a hoodie and vest, which is too casual for an interview setting. This attire choice does not convey professionalism.",
+          "score": 4
+        },
+        "background": {
+          "justification": "The background is a plain wall, but the framing is too tight, and the candidate is wearing casual clothing, making the setting less professional.",
+          "score": 6
+        },
+        "videoQuality": {
+          "justification": "The video quality is poor, with noticeable pixelation and a lack of sharpness. The lighting is also not ideal, creating reflections on the candidate's glasses and making it difficult to see his face clearly. The framing is acceptable, but the overall visual experience is subpar.",
+          "score": 5
+        },
+        "appearance": {
+          "justification": "The candidate's appearance is not professional. He is wearing a hoodie and vest, which is too casual for an interview setting. His hair is also unkempt. This gives the impression that he did not take the interview seriously.",
+          "score": 4
+        },
+        "eyeContact": {
+          "justification": "The candidate struggles with maintaining eye contact, often looking down or away from the camera. This significantly reduces engagement and makes it difficult to connect with the interviewer. [00:00:27], [00:01:41]",
+          "score": 3
+        }
+      },
+      "audio": {
+        "delivery": {
+          "justification": "The candidate's speech delivery is significantly impacted by nervousness, leading to frequent pauses, hesitations, and a lack of fluency. The delivery is monotone and lacks engagement, making it difficult to follow the candidate's points effectively. At [00:00:29] the candidate admits to being nervous.",
+          "score": 3
+        },
+        "pronunciation": {
+          "justification": "The candidate's pronunciation is poor and difficult to understand. There are frequent mispronunciations and hesitations throughout the video. At [00:00:27], the candidate admits to being nervous, which may contribute to the pronunciation issues.",
+          "score": 3
+        },
+        "accent": {
+          "justification": "The candidate's accent is very strong and significantly impacts comprehension. There are frequent pauses and hesitations, and the flow of speech is disrupted, making it difficult to follow the arguments and understand the points being made. The pronunciation of certain words is unclear, requiring extra effort to decipher the meaning.",
+          "score": 3
+        }
+      },
+      "content": {
+        "irrelevantResponses": {
+          "justification": "The candidate demonstrates significant difficulty in articulating their thoughts, leading to frequent pauses and restarts. At [00:00:27], the candidate explicitly acknowledges their nervousness, which further disrupts the flow of their response. This lack of fluency and coherence significantly detracts from the overall quality of the interview.",
+          "score": 4
+        },
+        "fillerWords": {
+          "justification": "The candidate uses filler words excessively throughout the video. At [00:00:02], the candidate starts with \"uh\" before speaking. At [00:00:29], the candidate says \"oh\" and \"I'm very nervous right now\" instead of pausing to collect his thoughts. The candidate also uses \"okay\" at [00:01:58] after finishing his answer.",
+          "score": 2
+        },
+        "pauses": {
+          "justification": "The candidate has several long pauses and stutters throughout the video. At [00:00:02], there is a long pause before the candidate begins speaking. At [00:00:29], the candidate pauses and admits to being nervous. At [00:01:39], the candidate pauses again.",
+          "score": 3
+        },
+        "grammar": {
+          "justification": "The candidate's grammar and language skills are weak. There are frequent pauses, hesitations, and incomplete sentences. The candidate also struggles to articulate his thoughts clearly, leading to confusion and a lack of coherence. At [00:00:27] the candidate says \"For example, if I...\" and then pauses for a long time. At [00:00:31] the candidate says \"Oh, I'm very nervous right now.\"",
+          "score": 3
+        },
+        "structure": {
+          "justification": "The candidate's response is disorganized and lacks a clear structure. He struggles to articulate his points effectively, often pausing and repeating himself. The flow of ideas is disjointed, making it difficult to follow his reasoning. At [00:00:29] he even admits to being nervous.",
+          "score": 3
+        }
+      },
+      "irregularities": {
+        "language": {
+          "justification": "The candidate's language consistency is poor. He struggles to articulate his thoughts in English, frequently pausing and using filler words like \"uh\" and \"okay.\" He also admits to being nervous, which further impacts his fluency and clarity. At [00:00:31], he even says \"I'm very nervous right now.\"",
+          "score": 4
+        },
+        "behavior": {
+          "justification": "The candidate appears nervous and unprepared, struggling to articulate his points clearly. He stumbles over his words and admits to being nervous at [00:00:32], which detracts from his credibility and professionalism. His overall presentation lacks confidence and polish.",
+          "score": 5
+        },
+        "videoIrregularities": {
+          "justification": "The candidate appears nervous and struggles to articulate his points clearly. He stumbles over his words and uses filler words like \"uh\" frequently. At [00:00:31], he explicitly states he is nervous, which further detracts from his presentation. His overall delivery lacks confidence and fluency.",
+          "score": 5
+        },
+        "aiCheating": {
+          "justification": "The candidate's response contains multiple instances of hesitation, repetition, and self-correction, indicating a lack of fluency and confidence. At [00:00:27], the candidate explicitly states, \"I'm very nervous right now,\" which further supports the assessment of non-AI-generated content. The overall delivery suggests genuine human interaction with the prompt, rather than a polished, AI-generated response.",
+          "score": 9
+        }
+      }
+    },
+    "question": "What are the benefits and challenges of online learning?"
+  },
+  {
+    "firstName": "ZI JUN",
+    "lastName": "XU",
+    "email": "xuzijun2025@126.com",
+    "attemptId": "940334b11dd85020760687ec",
+    "s3Path": "s3://ai-interview-aiinterviewbucket-ekdgigsxg8fj/videos/Webm/dfcd9fbc-5e38-4916-8759-1f6ee75993c2.webm",
+    "presignedURL": "https://ai-interview-aiinterviewbucket-ekdgigsxg8fj.s3.ap-southeast-1.amazonaws.com/videos/Webm/dfcd9fbc-5e38-4916-8759-1f6ee75993c2.webm?response-content-disposition=inline&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLXNvdXRoZWFzdC0xIkcwRQIhANYqgLTME8hEol9OR7kQenM%2FicKU5szNMT%2Bzoeu%2FULDAAiBA3AmXHOKLusmyL0ynRlyjdPL9blV0F%2BCbnyRyUmWgaCrWAwhFEAMaDDU1NzAwODgzMDI0NyIMbZOTZ5TBoN29HawgKrMD1K9U%2Fao8jrVXoRjzN5GE3YgyW3Emh7x0SeVJ7fHLz6dViUDfjfL2KIhaxT0VLBOTuXht%2FlAGJPzo7VE%2Bsme%2FyiG5W85IwFO3NZvmdnxoHjM4PR6%2BBasheulrDzS%2FJ6CtniPgF8FalTAcHgdTrkU7SeQkdGLAMB1tCfjovbp8opVK182dYYKnABB%2FEF35T8R6YfsQvqRNiNISIZR2BiFnd51o%2FTDcjnon1pUWkQyeEnf%2Fh98Wu4yK7S0sr%2Fm6YFl0MItc4SHtQYhtweOPH%2FHvRvgxszCPHbcB405%2F91%2FU%2B9UktXgyV3fNWilc2s41Hhvf5r3xXP7lD2DRIedRJ%2Bs4EtIXaGdleoaSRIsYqFqAqMmmE4vKf12PRi0Pia5COBykcSJDCJkDgMoogpCP83yWNsoBlbrQ0m9BZxOgK3sS21McfZaIKGDokMlEefKX3DJx9B6a5x92IOsHqRKIFEIKzqUMqYhewc%2FsWfYQmoASXK2SHWkO3tp2J48tt%2Fcj%2BMqF7m4hOK1DlQghAaivn2XgoimaIFj5Z4vbP5Ns0QHU%2FtcygXDB%2BBmmNG6TIHLY12Az3rkfMN2inMEGOt4CRd4NM445gzwlnW9ZQE%2BJE0otqGQdh6wkbmhG0WKsSms43Le1ym7aR%2FPbqk0%2BLuDk8VBkMRMO6he14b52ts2JtqgGMKunTKkOiG8%2BsbRbd2G3jWJ%2BexChzWXAtiSnKzaBTbrG%2Brm%2BfCwmO3iPhagn%2BviY8a3FNWZ%2FlQJa%2FfUy0hYdxl%2Fz2J%2BNUoAS%2F7LzBeGo9kn%2BzzySWfOUyHd5LMCVa3bCqayToRUxqI0NfVo3eV8jpM3%2BLnBHhkoiPj9eP7SpFYtPIT%2FfhbTwqAkKCa6ICcrHUQP4SoFtlFjC8qq%2FA6q5jFMBOhnfkbq0PxMpSPfMOuoHSbJmTAER9Or%2BYbcdqpOHC%2FIr5Y6Yk7eI1bY4f5CgvZXGrogVrVzVtDerAmbbnxmyLNmBI%2BVJki6XctsYCQ%2FIQSzv9k4WJaQ52UTL5gIk5mQ2YdOUE%2FovBJP51pg9nXtqgjvDqeHagS1vIzQ%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAYDMCQH4TZXSXJ2H6%2F20250516%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20250516T113910Z&X-Amz-Expires=43200&X-Amz-SignedHeaders=host&X-Amz-Signature=2ffdcb30c85a25554e8ade6b3b6c6f4c49b5192ff9db11f067eabcdfc0cf5272",
+    "localPath": "C:\\Users\\fata-\\Documents\\personal\\AGA\\experiment-severe-weakness\\hku_videos\\dfcd9fbc-5e38-4916-8759-1f6ee75993c2.webm.webm",
+    "analysis": {
+      "visual": {
+        "attire": {
+          "justification": "The candidate is wearing headphones during the interview, which is unprofessional. The background is also a bedroom, which is not ideal for an interview setting.",
+          "score": 5
+        },
+        "background": {
+          "justification": "The background is a bedroom, which is not a professional setting. There is a bed and wardrobe visible, which can be distracting. The framing is also not ideal, as it is too close to the candidate's face.",
+          "score": 3
+        },
+        "videoQuality": {
+          "justification": "The video has poor lighting and the framing is not ideal. The resolution is also low, making it difficult to see details.",
+          "score": 4
+        },
+        "appearance": {
+          "justification": "The candidate's appearance is not professional. The headphones are distracting, and the background is not ideal for an interview setting.",
+          "score": 4
+        },
+        "eyeContact": {
+          "justification": "The candidate's eye contact is very poor. She looks down for the majority of the video, rarely making direct eye contact with the camera. This lack of engagement significantly detracts from her presentation. [00:00:28], [00:00:47], [00:00:54], [00:01:11], [00:01:21], [00:01:43], [00:01:49]",
+          "score": 2
+        }
+      },
+      "audio": {
+        "delivery": {
+          "justification": "The candidate's speech delivery is monotone and lacks energy, making it difficult to maintain engagement. There is minimal variation in tone or pace, which affects the overall clarity and impact of the message. The lack of enthusiasm in the delivery could be improved with more dynamic vocal expression.",
+          "score": 3
+        },
+        "pronunciation": {
+          "justification": "The candidate's pronunciation is poor and difficult to understand. There are frequent mispronunciations and hesitations throughout the video. For example, at [00:00:29], the candidate mispronounces \"AI models\" and at [00:00:55] the candidate mispronounces \"interfere\".",
+          "score": 3
+        },
+        "accent": {
+          "justification": "The candidate's accent significantly impacts comprehension. At [00:00:29], the pronunciation of words like \"AI\" and \"medical\" is unclear, making it difficult to understand the intended message. The accent consistently interferes with clarity throughout the video.",
+          "score": 3
+        }
+      },
+      "content": {
+        "irrelevantResponses": {
+          "justification": "The response does not address the question of what would happen if AI models could produce original ideas. Instead, the candidate discusses AI's role in medical fields, which is a tangential connection at best. The response lacks direct relevance to the prompt.",
+          "score": 2
+        },
+        "fillerWords": {
+          "justification": "The candidate uses filler words such as \"um\" and \"uh\" frequently throughout the interview. At [00:00:29], the candidate uses \"um\" and \"uh\" in the same sentence. This detracts from the clarity and professionalism of the response.",
+          "score": 3
+        },
+        "pauses": {
+          "justification": "The candidate has many pauses throughout the interview. The pauses are disruptive and affect the flow of the interview. The candidate also has many filler words.",
+          "score": 3
+        },
+        "grammar": {
+          "justification": "The candidate's grammar and language skills are very weak. There are frequent grammatical errors, incomplete sentences, and difficulty in expressing ideas clearly. The candidate struggles with sentence structure, word choice, and overall coherence, making it difficult to understand the intended message. [00:00:29] [00:00:32] [00:00:38] [00:00:53] [00:01:01] [00:01:12] [00:01:23]",
+          "score": 2
+        },
+        "structure": {
+          "justification": "The response is difficult to follow and lacks a clear, logical flow. The candidate jumps between ideas without proper transitions, making it hard to understand the main points or the connections between them. The response is disorganized and lacks coherence.",
+          "score": 3
+        }
+      },
+      "irregularities": {
+        "language": {
+          "justification": "The candidate's English is very poor. She struggles to articulate her thoughts and makes frequent grammatical errors. Her pronunciation is also difficult to understand. [00:00:29]",
+          "score": 2
+        },
+        "behavior": {
+          "justification": "The candidate's video has poor lighting and is recorded in a bedroom, which is not a professional setting. Additionally, the candidate's eye contact is inconsistent, and they appear to be reading from a script, which detracts from the authenticity of their responses. The candidate also has a very poor audio quality. [00:00:00] - [00:00:28]",
+          "score": 3
+        },
+        "videoIrregularities": {
+          "justification": "The candidate's response is not very clear and is difficult to understand. The candidate also has poor eye contact and does not seem very engaged in the interview. The candidate's response is also not very well-organized and is difficult to follow. [00:00:29] - [00:00:36]",
+          "score": 4
+        },
+        "aiCheating": {
+          "justification": "The candidate's vocabulary and sentence structure are inconsistent with their apparent age and proficiency level. The responses sound overly formal and complex, suggesting potential AI assistance. The candidate also appears to be reading from a script, which further raises suspicion.",
+          "score": 2
+        }
+      }
+    },
+    "question": "What would happen if AI models could produce original ideas?"
+  },
+  {
+    "firstName": "LINGAN",
+    "lastName": "KONG",
+    "email": "kongla2008@163.com",
+    "attemptId": "cabcdc2c943e8a184ddc80db",
+    "s3Path": "s3://ai-interview-aiinterviewbucket-ekdgigsxg8fj/videos/Webm/fc30d759-63bc-4a8e-927a-fc173f7ec5bf.webm",
+    "presignedURL": "https://ai-interview-aiinterviewbucket-ekdgigsxg8fj.s3.ap-southeast-1.amazonaws.com/videos/Webm/fc30d759-63bc-4a8e-927a-fc173f7ec5bf.webm?response-content-disposition=inline&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLXNvdXRoZWFzdC0xIkcwRQIhANYqgLTME8hEol9OR7kQenM%2FicKU5szNMT%2Bzoeu%2FULDAAiBA3AmXHOKLusmyL0ynRlyjdPL9blV0F%2BCbnyRyUmWgaCrWAwhFEAMaDDU1NzAwODgzMDI0NyIMbZOTZ5TBoN29HawgKrMD1K9U%2Fao8jrVXoRjzN5GE3YgyW3Emh7x0SeVJ7fHLz6dViUDfjfL2KIhaxT0VLBOTuXht%2FlAGJPzo7VE%2Bsme%2FyiG5W85IwFO3NZvmdnxoHjM4PR6%2BBasheulrDzS%2FJ6CtniPgF8FalTAcHgdTrkU7SeQkdGLAMB1tCfjovbp8opVK182dYYKnABB%2FEF35T8R6YfsQvqRNiNISIZR2BiFnd51o%2FTDcjnon1pUWkQyeEnf%2Fh98Wu4yK7S0sr%2Fm6YFl0MItc4SHtQYhtweOPH%2FHvRvgxszCPHbcB405%2F91%2FU%2B9UktXgyV3fNWilc2s41Hhvf5r3xXP7lD2DRIedRJ%2Bs4EtIXaGdleoaSRIsYqFqAqMmmE4vKf12PRi0Pia5COBykcSJDCJkDgMoogpCP83yWNsoBlbrQ0m9BZxOgK3sS21McfZaIKGDokMlEefKX3DJx9B6a5x92IOsHqRKIFEIKzqUMqYhewc%2FsWfYQmoASXK2SHWkO3tp2J48tt%2Fcj%2BMqF7m4hOK1DlQghAaivn2XgoimaIFj5Z4vbP5Ns0QHU%2FtcygXDB%2BBmmNG6TIHLY12Az3rkfMN2inMEGOt4CRd4NM445gzwlnW9ZQE%2BJE0otqGQdh6wkbmhG0WKsSms43Le1ym7aR%2FPbqk0%2BLuDk8VBkMRMO6he14b52ts2JtqgGMKunTKkOiG8%2BsbRbd2G3jWJ%2BexChzWXAtiSnKzaBTbrG%2Brm%2BfCwmO3iPhagn%2BviY8a3FNWZ%2FlQJa%2FfUy0hYdxl%2Fz2J%2BNUoAS%2F7LzBeGo9kn%2BzzySWfOUyHd5LMCVa3bCqayToRUxqI0NfVo3eV8jpM3%2BLnBHhkoiPj9eP7SpFYtPIT%2FfhbTwqAkKCa6ICcrHUQP4SoFtlFjC8qq%2FA6q5jFMBOhnfkbq0PxMpSPfMOuoHSbJmTAER9Or%2BYbcdqpOHC%2FIr5Y6Yk7eI1bY4f5CgvZXGrogVrVzVtDerAmbbnxmyLNmBI%2BVJki6XctsYCQ%2FIQSzv9k4WJaQ52UTL5gIk5mQ2YdOUE%2FovBJP51pg9nXtqgjvDqeHagS1vIzQ%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAYDMCQH4TZXSXJ2H6%2F20250516%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20250516T114004Z&X-Amz-Expires=43200&X-Amz-SignedHeaders=host&X-Amz-Signature=67b693cde701fdcf469b0debf1fcb5dbfa712c030eede0ea755bcf1603a44d3d",
+    "localPath": "C:\\Users\\fata-\\Documents\\personal\\AGA\\experiment-severe-weakness\\hku_videos\\fc30d759-63bc-4a8e-927a-fc173f7ec5bf.webm.webm",
+    "analysis": {
+      "visual": {
+        "attire": {
+          "justification": "The candidate's attire is a casual t-shirt, which is not appropriate for a professional interview setting. A more formal shirt or blouse would have been preferable.",
+          "score": 6
+        },
+        "background": {
+          "justification": "The background is a plain wall and cabinets, which is not distracting. However, the framing is too tight, cutting off the top of the head and making the candidate appear too close to the camera. This is a minor distraction but could be improved.",
+          "score": 6
+        },
+        "videoQuality": {
+          "justification": "The video quality is poor due to the low resolution and poor lighting. The framing is also not ideal, as the candidate is positioned too low in the frame. This makes it difficult to see the candidate's face and expressions clearly.",
+          "score": 4
+        },
+        "appearance": {
+          "justification": "The candidate's hair is unkempt and distracting. This detracts from the overall impression of professionalism.",
+          "score": 6
+        },
+        "eyeContact": {
+          "justification": "The candidate's eye contact is inconsistent and often looks down or away from the camera, which can be distracting and make it difficult to connect with the interviewer. This occurs throughout the video, but is particularly noticeable at 0:15, 0:32, 0:49, 1:06, 1:23, and 1:44.",
+          "score": 5
+        }
+      },
+      "audio": {
+        "delivery": {
+          "justification": "The candidate's speech delivery is monotone and lacks energy, making it difficult to stay engaged. There are also several pauses and filler words that disrupt the flow of the response. [00:00:01] - [00:00:03]",
+          "score": 4
+        },
+        "pronunciation": {
+          "justification": "The candidate's pronunciation is generally clear, but there are occasional stumbles and hesitations that slightly affect clarity. The overall pronunciation is understandable, but not perfect.",
+          "score": 7
+        },
+        "accent": {
+          "justification": "The candidate's accent is understandable but has a moderate impact on clarity. There are moments where the pronunciation of certain words requires extra attention to comprehend, but overall, the accent does not significantly impede understanding.",
+          "score": 6
+        }
+      },
+      "content": {
+        "irrelevantResponses": {
+          "justification": "The candidate's response is relevant to the question, as he discusses the importance of Chinese cultural traditions and beliefs to him. However, the response is somewhat disorganized and repetitive, and the candidate struggles to articulate his thoughts clearly. He also makes some generalizations about Chinese culture that could be considered insensitive. Overall, the response is adequate but could be improved with better organization and more nuanced thinking.",
+          "score": 7
+        },
+        "fillerWords": {
+          "justification": "The candidate uses filler words such as \"well\", \"uh\", \"etcetera\", and \"like\" excessively throughout the response. There are multiple instances where these words appear more than twice in a single sentence, disrupting the flow and clarity of the answer. For example, at [00:00:33], the candidate uses \"uh\" and \"way of life\" in close succession, and at [00:00:39], there is a noticeable pause and repetition of \"this is\" before continuing. This pattern of filler usage significantly detracts from the overall effectiveness of the communication.",
+          "score": 3
+        },
+        "pauses": {
+          "justification": "The candidate has several long pauses and uses filler words like \"uh\" and \"well\" frequently, disrupting the flow of the response. The candidate also seems to lose his train of thought at times, leading to more pauses and restarts. [00:00:32], [00:00:35]",
+          "score": 4
+        },
+        "grammar": {
+          "justification": "The candidate's grammar and language skills are weak. There are frequent grammatical errors, incomplete sentences, and awkward phrasing throughout the response. Examples include incorrect verb tenses, missing articles, and unclear sentence structure. The candidate also struggles to express their ideas clearly and concisely, leading to confusion and difficulty in understanding their points.",
+          "score": 4
+        },
+        "structure": {
+          "justification": "The response lacks a clear, concise structure. The candidate meanders through various points without a strong central argument or logical flow. The response is repetitive and lacks focus, making it difficult to follow the candidate's train of thought. The candidate also uses filler words and phrases, which further detract from the clarity and coherence of the response. The candidate also has a hard time articulating his thoughts and ideas.",
+          "score": 4
+        }
+      },
+      "irregularities": {
+        "language": {
+          "justification": "The candidate's language is consistent throughout the interview. Therefore, the candidate receives a score of 10.",
+          "score": 10
+        },
+        "behavior": {
+          "justification": "The candidate's response is somewhat rambling and unfocused, lacking clear structure and specific examples. The candidate also uses filler words and phrases, such as \"well\" and \"etcetera,\" which detract from the overall professionalism of the response. The candidate also touches his face while speaking, which can be distracting for the viewer. The candidate also has a poor camera angle.",
+          "score": 6
+        },
+        "videoIrregularities": {
+          "justification": "The candidate's response is somewhat rambling and unfocused, lacking clear structure and specific examples. The candidate also uses filler words and phrases, such as \"well\" and \"etcetera,\" which detract from the overall clarity and impact of the response. The candidate also seems to be reading from a script, which makes the response sound less natural and authentic. [00:00:01] - [00:00:05]",
+          "score": 5
+        },
+        "aiCheating": {
+          "justification": "The candidate's response is overly verbose and lacks clear structure. The language used is somewhat sophisticated, but the overall delivery is hesitant and repetitive, suggesting a possible reliance on pre-prepared or AI-assisted content. The candidate struggles to articulate a coherent point, and the response meanders without a clear conclusion. The candidate also uses filler words and phrases, such as \"well\" and \"etcetera,\" which further detract from the clarity and impact of the response. The candidate also seems to be reading from a script, which is a sign of AI assistance.",
+          "score": 3
+        }
+      }
+    },
+    "question": "What cultural tradition or belief is important to you and why?"
+  },
+  {
+    "firstName": "YUQI",
+    "lastName": "XUE",
+    "email": "18911985672@163.com",
+    "attemptId": "4bbbfd8ca31a5dc4633e0693",
+    "s3Path": "s3://ai-interview-aiinterviewbucket-ekdgigsxg8fj/videos/Webm/d81efca0-2e27-4ab8-81f9-ea1d0db278c9.webm",
+    "presignedURL": "https://ai-interview-aiinterviewbucket-ekdgigsxg8fj.s3.ap-southeast-1.amazonaws.com/videos/Webm/d81efca0-2e27-4ab8-81f9-ea1d0db278c9.webm?response-content-disposition=inline&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLXNvdXRoZWFzdC0xIkcwRQIhANYqgLTME8hEol9OR7kQenM%2FicKU5szNMT%2Bzoeu%2FULDAAiBA3AmXHOKLusmyL0ynRlyjdPL9blV0F%2BCbnyRyUmWgaCrWAwhFEAMaDDU1NzAwODgzMDI0NyIMbZOTZ5TBoN29HawgKrMD1K9U%2Fao8jrVXoRjzN5GE3YgyW3Emh7x0SeVJ7fHLz6dViUDfjfL2KIhaxT0VLBOTuXht%2FlAGJPzo7VE%2Bsme%2FyiG5W85IwFO3NZvmdnxoHjM4PR6%2BBasheulrDzS%2FJ6CtniPgF8FalTAcHgdTrkU7SeQkdGLAMB1tCfjovbp8opVK182dYYKnABB%2FEF35T8R6YfsQvqRNiNISIZR2BiFnd51o%2FTDcjnon1pUWkQyeEnf%2Fh98Wu4yK7S0sr%2Fm6YFl0MItc4SHtQYhtweOPH%2FHvRvgxszCPHbcB405%2F91%2FU%2B9UktXgyV3fNWilc2s41Hhvf5r3xXP7lD2DRIedRJ%2Bs4EtIXaGdleoaSRIsYqFqAqMmmE4vKf12PRi0Pia5COBykcSJDCJkDgMoogpCP83yWNsoBlbrQ0m9BZxOgK3sS21McfZaIKGDokMlEefKX3DJx9B6a5x92IOsHqRKIFEIKzqUMqYhewc%2FsWfYQmoASXK2SHWkO3tp2J48tt%2Fcj%2BMqF7m4hOK1DlQghAaivn2XgoimaIFj5Z4vbP5Ns0QHU%2FtcygXDB%2BBmmNG6TIHLY12Az3rkfMN2inMEGOt4CRd4NM445gzwlnW9ZQE%2BJE0otqGQdh6wkbmhG0WKsSms43Le1ym7aR%2FPbqk0%2BLuDk8VBkMRMO6he14b52ts2JtqgGMKunTKkOiG8%2BsbRbd2G3jWJ%2BexChzWXAtiSnKzaBTbrG%2Brm%2BfCwmO3iPhagn%2BviY8a3FNWZ%2FlQJa%2FfUy0hYdxl%2Fz2J%2BNUoAS%2F7LzBeGo9kn%2BzzySWfOUyHd5LMCVa3bCqayToRUxqI0NfVo3eV8jpM3%2BLnBHhkoiPj9eP7SpFYtPIT%2FfhbTwqAkKCa6ICcrHUQP4SoFtlFjC8qq%2FA6q5jFMBOhnfkbq0PxMpSPfMOuoHSbJmTAER9Or%2BYbcdqpOHC%2FIr5Y6Yk7eI1bY4f5CgvZXGrogVrVzVtDerAmbbnxmyLNmBI%2BVJki6XctsYCQ%2FIQSzv9k4WJaQ52UTL5gIk5mQ2YdOUE%2FovBJP51pg9nXtqgjvDqeHagS1vIzQ%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAYDMCQH4TZXSXJ2H6%2F20250516%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20250516T114039Z&X-Amz-Expires=43200&X-Amz-SignedHeaders=host&X-Amz-Signature=adb37a776baacbbe72b0559d5cfbb7a00eeb9327b379d1062806affec2dfc0f6",
+    "localPath": "C:\\Users\\fata-\\Documents\\personal\\AGA\\experiment-severe-weakness\\hku_videos\\d81efca0-2e27-4ab8-81f9-ea1d0db278c9.webm.webm",
+    "analysis": {
+      "visual": {
+        "attire": {
+          "justification": "The candidate is wearing headphones during the interview, which is unprofessional. This is a minor issue, but it does detract from the overall impression.",
+          "score": 6
+        },
+        "background": {
+          "justification": "The background is a plain wall with a cabinet that has some items in it. It is not distracting, but it is also not particularly professional. The framing is also a bit too high, cutting off the top of the head.",
+          "score": 6
+        },
+        "videoQuality": {
+          "justification": "The video quality is poor, with a low resolution that makes it difficult to see details clearly. The lighting is also not ideal, contributing to the overall low quality of the video.",
+          "score": 4
+        },
+        "appearance": {
+          "justification": "The candidate's appearance is not professional. He is wearing headphones and a casual shirt, which is not appropriate for an interview setting. This detracts from the overall impression and professionalism of the candidate.",
+          "score": 5
+        },
+        "eyeContact": {
+          "justification": "The candidate's eye contact is poor. He looks away from the camera frequently, and his gaze is not consistently directed at the viewer. [00:00:00] - [00:00:02]",
+          "score": 3
+        }
+      },
+      "audio": {
+        "delivery": {
+          "justification": "The candidate's speech delivery is monotone and lacks engagement. There are frequent pauses and hesitations, such as at [00:00:00] and [00:00:57], which disrupt the flow of speech and make it difficult to follow the candidate's train of thought. The lack of vocal variety and energy makes the presentation dull and uninteresting.",
+          "score": 3
+        },
+        "pronunciation": {
+          "justification": "The candidate has some pronunciation issues, such as mispronouncing \"equality\" as \"equatity\" at [00:00:24]. This affects the clarity of the response.",
+          "score": 6
+        },
+        "accent": {
+          "justification": "The candidate's accent is very strong and significantly impacts comprehension. The pronunciation of words is often unclear, requiring extra effort to understand the intended meaning. This could be a barrier in effective communication within a professional setting.",
+          "score": 2
+        }
+      },
+      "content": {
+        "irrelevantResponses": {
+          "justification": "The candidate provides a definition of social justice and equity, and then gives an example of how the court system should treat rich and poor people equally. The response is relevant to the question.",
+          "score": 9
+        },
+        "fillerWords": {
+          "justification": "The candidate uses filler words excessively throughout the response. For example, at [00:00:03], the candidate uses \"well\" and \"uh\" at the beginning of the sentence. At [00:00:50], the candidate uses \"um\" before continuing the response. At [00:00:57], the candidate uses \"uh\" before continuing the response. At [00:01:02], the candidate uses \"um\" before continuing the response. At [00:01:12], the candidate uses \"um\" before continuing the response.",
+          "score": 2
+        },
+        "pauses": {
+          "justification": "The candidate has several long pauses throughout the video, especially at [00:00:57] and [00:01:43], which disrupt the flow of the interview and make it difficult to follow the candidate's train of thought.",
+          "score": 3
+        },
+        "grammar": {
+          "justification": "The candidate's grammar and language skills are weak. There are frequent grammatical errors, incomplete sentences, and awkward phrasing throughout the response. The candidate struggles to express ideas clearly and concisely, leading to confusion and difficulty in understanding the intended message. The candidate also uses filler words and pauses frequently, which further detracts from the overall clarity and fluency of the response. For example, at [00:00:00] the candidate says \"Well, in my opinion, uh, in order to demonstrate a commitment to social justice or equity, uh, I will try to analyze the question first.\" This sentence is grammatically incorrect and contains several filler words. At [00:00:24] the candidate says \"social justice or quality, equality is focus on the human's right.\" This sentence is also grammatically incorrect and contains several errors. At [00:00:57] the candidate says \"social justice uh for example um in the uh in a court when the law is going to judge the both the rich and the poor people.\" This sentence is grammatically incorrect and contains several filler words.",
+          "score": 3
+        },
+        "structure": {
+          "justification": "The response lacks a clear structure and wanders without a central point. The candidate struggles to articulate a coherent argument, resulting in a disorganized and confusing answer. The candidate also uses filler words and pauses frequently, which further disrupts the flow of the response.",
+          "score": 3
+        }
+      },
+      "irregularities": {
+        "language": {
+          "justification": "The candidate's language skills are not strong. He struggles to articulate his thoughts clearly and concisely, often pausing and using filler words like \"uhm\" and \"uh\". His vocabulary is limited, and he sometimes mispronounces words, which affects the clarity of his message. The overall language proficiency is below the expected level for a professional interview.",
+          "score": 4
+        },
+        "behavior": {
+          "justification": "The candidate's response is rambling and unfocused. He struggles to articulate a clear point and uses filler words excessively. The example provided is vague and doesn't effectively demonstrate a commitment to social justice or equity. [00:00:00] - [00:01:59]",
+          "score": 4
+        },
+        "videoIrregularities": {
+          "justification": "The candidate's response is somewhat rambling and lacks a clear, concise structure. The candidate struggles to articulate a coherent point, often pausing and using filler words. The candidate's response lacks specific examples or personal experiences to support the points being made. The candidate's response is not well-organized and lacks a clear thesis statement or main argument. [00:00:00] - [00:01:59]",
+          "score": 4
+        },
+        "aiCheating": {
+          "justification": "The candidate's response is overly verbose and lacks specific examples. The language used is somewhat sophisticated, but the overall coherence and depth of understanding seem lacking, suggesting possible AI assistance. The candidate also pauses frequently, which could indicate they are waiting for AI to generate the next part of their response. The response is also somewhat generic and doesn't demonstrate a deep, personal understanding of the topic. The candidate also seems to be struggling to articulate their thoughts clearly, which is uncharacteristic of someone with a strong grasp of the subject matter. [00:00:57]",
+          "score": 6
+        }
+      }
+    },
+    "question": "How will you demonstrate a commitment to social justice or equity?"
+  },
+  {
+    "firstName": "YUXIN",
+    "lastName": "GAO",
+    "email": "yuxinlucy1118@163.com",
+    "attemptId": "cabe71f12011bb21597e343f",
+    "s3Path": "s3://ai-interview-aiinterviewbucket-ekdgigsxg8fj/videos/Webm/a470f60c-86e6-4e22-b8e6-3c9346c36c2c.webm",
+    "presignedURL": "https://ai-interview-aiinterviewbucket-ekdgigsxg8fj.s3.ap-southeast-1.amazonaws.com/videos/Webm/a470f60c-86e6-4e22-b8e6-3c9346c36c2c.webm?response-content-disposition=inline&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLXNvdXRoZWFzdC0xIkcwRQIhANYqgLTME8hEol9OR7kQenM%2FicKU5szNMT%2Bzoeu%2FULDAAiBA3AmXHOKLusmyL0ynRlyjdPL9blV0F%2BCbnyRyUmWgaCrWAwhFEAMaDDU1NzAwODgzMDI0NyIMbZOTZ5TBoN29HawgKrMD1K9U%2Fao8jrVXoRjzN5GE3YgyW3Emh7x0SeVJ7fHLz6dViUDfjfL2KIhaxT0VLBOTuXht%2FlAGJPzo7VE%2Bsme%2FyiG5W85IwFO3NZvmdnxoHjM4PR6%2BBasheulrDzS%2FJ6CtniPgF8FalTAcHgdTrkU7SeQkdGLAMB1tCfjovbp8opVK182dYYKnABB%2FEF35T8R6YfsQvqRNiNISIZR2BiFnd51o%2FTDcjnon1pUWkQyeEnf%2Fh98Wu4yK7S0sr%2Fm6YFl0MItc4SHtQYhtweOPH%2FHvRvgxszCPHbcB405%2F91%2FU%2B9UktXgyV3fNWilc2s41Hhvf5r3xXP7lD2DRIedRJ%2Bs4EtIXaGdleoaSRIsYqFqAqMmmE4vKf12PRi0Pia5COBykcSJDCJkDgMoogpCP83yWNsoBlbrQ0m9BZxOgK3sS21McfZaIKGDokMlEefKX3DJx9B6a5x92IOsHqRKIFEIKzqUMqYhewc%2FsWfYQmoASXK2SHWkO3tp2J48tt%2Fcj%2BMqF7m4hOK1DlQghAaivn2XgoimaIFj5Z4vbP5Ns0QHU%2FtcygXDB%2BBmmNG6TIHLY12Az3rkfMN2inMEGOt4CRd4NM445gzwlnW9ZQE%2BJE0otqGQdh6wkbmhG0WKsSms43Le1ym7aR%2FPbqk0%2BLuDk8VBkMRMO6he14b52ts2JtqgGMKunTKkOiG8%2BsbRbd2G3jWJ%2BexChzWXAtiSnKzaBTbrG%2Brm%2BfCwmO3iPhagn%2BviY8a3FNWZ%2FlQJa%2FfUy0hYdxl%2Fz2J%2BNUoAS%2F7LzBeGo9kn%2BzzySWfOUyHd5LMCVa3bCqayToRUxqI0NfVo3eV8jpM3%2BLnBHhkoiPj9eP7SpFYtPIT%2FfhbTwqAkKCa6ICcrHUQP4SoFtlFjC8qq%2FA6q5jFMBOhnfkbq0PxMpSPfMOuoHSbJmTAER9Or%2BYbcdqpOHC%2FIr5Y6Yk7eI1bY4f5CgvZXGrogVrVzVtDerAmbbnxmyLNmBI%2BVJki6XctsYCQ%2FIQSzv9k4WJaQ52UTL5gIk5mQ2YdOUE%2FovBJP51pg9nXtqgjvDqeHagS1vIzQ%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAYDMCQH4TZXSXJ2H6%2F20250516%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20250516T114113Z&X-Amz-Expires=43200&X-Amz-SignedHeaders=host&X-Amz-Signature=8a9a8e02479e823e13375e2c2541cda50d66fb092510356ccc7729305019b978",
+    "localPath": "C:\\Users\\fata-\\Documents\\personal\\AGA\\experiment-severe-weakness\\hku_videos\\a470f60c-86e6-4e22-b8e6-3c9346c36c2c.webm.webm",
+    "analysis": {
+      "visual": {
+        "attire": {
+          "justification": "The candidate's attire is too casual for a professional interview setting. A polo shirt is acceptable, but the overall presentation, including the pigtails, gives off a youthful and unprofessional impression.",
+          "score": 5
+        },
+        "background": {
+          "justification": "The background is cluttered and distracting, with shelves full of various items. The framing is also not ideal, as the candidate is not centered and there is a large, dark object on the left side of the frame.",
+          "score": 3
+        },
+        "videoQuality": {
+          "justification": "The video quality is poor. The resolution is low, and the lighting is not ideal, making it difficult to see the candidate clearly. The framing is also not ideal, as the candidate is not centered in the frame.",
+          "score": 5
+        },
+        "appearance": {
+          "justification": "The candidate's hair is unkempt and the pigtails are not professional. The red shirt is also not a good choice for an interview.",
+          "score": 5
+        },
+        "eyeContact": {
+          "justification": "The candidate's eye contact is poor. She looks down and away from the camera for the majority of the video. This makes it difficult to feel engaged with her response. (00:00:00-00:00:02)",
+          "score": 3
+        }
+      },
+      "audio": {
+        "delivery": {
+          "justification": "The candidate's speech delivery is monotone and lacks enthusiasm, making it difficult to maintain engagement. There are also noticeable pauses and hesitations throughout the response, which disrupt the flow and clarity of the message.",
+          "score": 3
+        },
+        "pronunciation": {
+          "justification": "The candidate's pronunciation is generally understandable, but there are noticeable errors and hesitations that occasionally disrupt the flow and clarity of her speech. The pronunciation of words like \"senior high student\" and \"happiness\" could be improved. The candidate also has a habit of saying \"uh\" and \"like\" which detracts from the overall clarity of the response.",
+          "score": 6
+        },
+        "accent": {
+          "justification": "The candidate's accent is very strong and significantly impacts comprehension. There are frequent pauses and hesitations, and the pronunciation of certain words is unclear, making it difficult to follow the flow of the response.",
+          "score": 3
+        }
+      },
+      "content": {
+        "irrelevantResponses": {
+          "justification": "The candidate answers the question, \"Is the Internet bad for you?\" by stating that the internet is beneficial for her and teenagers. The candidate provides two reasons for this: the internet exposes her to a wider world and the internet allows her to know more knowledge. The candidate stays on topic throughout the video.",
+          "score": 10
+        },
+        "fillerWords": {
+          "justification": "The candidate uses filler words such as \"uh\", \"like\", and \"so\" excessively throughout the interview. This detracts from the clarity and professionalism of her responses. For example, at [00:00:23], she says \"So, as uh senior high student...\", and at [00:00:36], she says \"But with the help of internet...\"",
+          "score": 3
+        },
+        "pauses": {
+          "justification": "The candidate has several long pauses throughout the interview, especially at [00:00:11], [00:00:28], [00:00:59], and [00:01:22]. These pauses disrupt the flow of the interview and make it difficult to follow the candidate's train of thought.",
+          "score": 3
+        },
+        "grammar": {
+          "justification": "The candidate's grammar and language skills are weak. There are frequent grammatical errors, incomplete sentences, and awkward phrasing throughout the response. Examples include: \"it's very a convenient for us to like log in to the internet\" [00:00:08], \"I'm actually quite happiness\" [00:01:17], and \"it boost my mental health\" [00:01:24].",
+          "score": 3
+        },
+        "structure": {
+          "justification": "The response lacks a clear structure and organization. The candidate jumps between ideas without proper transitions, making it difficult to follow the main points. The arguments are not presented in a logical order, and there is no clear introduction or conclusion. The candidate also uses filler words and phrases, which further detract from the overall coherence of the response. The candidate also has a nervous tick at the beginning of the video [00:00:00].",
+          "score": 3
+        }
+      },
+      "irregularities": {
+        "language": {
+          "justification": "The candidate's language skills are not strong. She struggles to articulate her thoughts clearly and uses incorrect grammar and vocabulary throughout the interview. There are frequent pauses and filler words, such as \"uh\" and \"like,\" which disrupt the flow of her speech. (0:11, 0:28, 1:14, 1:43)",
+          "score": 4
+        },
+        "behavior": {
+          "justification": "The candidate's response is somewhat disjointed and lacks a clear, structured argument. There are several pauses and hesitations, and the points made are not always directly relevant to the prompt. The candidate also appears to be reading from notes at times, which detracts from the overall presentation. The candidate also starts the video with a loud noise.",
+          "score": 5
+        },
+        "videoIrregularities": {
+          "justification": "The video appears to be authentic. There are no obvious digital artifacts or signs of AI manipulation. The candidate's movements and speech seem natural.",
+          "score": 9
+        },
+        "aiCheating": {
+          "justification": "The candidate's response is overly simplistic and lacks depth, which is inconsistent with the vocabulary used. The response also includes repetitive phrases and ideas, suggesting a lack of original thought and potentially indicating AI assistance. The candidate also struggles to articulate her thoughts clearly, often pausing and using filler words, which is uncharacteristic of someone with a strong command of the language.",
+          "score": 3
+        }
+      }
+    },
+    "question": "Is the Internet bad for you?"
+  }
+]

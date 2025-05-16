@@ -14,8 +14,15 @@ st.set_page_config(
 
 # Load and process data
 @st.cache_data
-def load_data():
-    with open('mongo_interview_analysis_grouped_10_5.json', 'r') as f:
+def load_data(dataset):
+    if dataset == "Baker McKenzie":
+        file_path = 'mongo_interview_analysis_grouped_10_5.json'
+        video_base_path = "baker_mckenzie_video"
+    else:  # HKU
+        file_path = 'hku_videos_info.json'
+        video_base_path = None  # We'll use presignedURL instead
+    
+    with open(file_path, 'r') as f:
         data = json.load(f)
     
     def safe_get(d, *keys):
@@ -28,14 +35,27 @@ def load_data():
     
     records = []
     for candidate in data:
-        for video in candidate['videos']:
-            analysis = video['analysis']
+        # Handle different data structures
+        if dataset == "Baker McKenzie":
+            videos = candidate.get('videos', [])
+        else:  # HKU
+            videos = [{
+                'question': candidate.get('question'),
+                'fileName': candidate.get('localPath', '').split('\\')[-1],
+                'presignedURL': candidate.get('presignedURL'),
+                'analysis': candidate.get('analysis', {})
+            }]
+        
+        for video in videos:
+            analysis = video.get('analysis', {})
             record = {
                 'firstName': candidate.get('firstName'),
                 'lastName': candidate.get('lastName'),
                 'email': candidate.get('email'),
                 'question': video.get('question'),
                 'fileName': video.get('fileName'),
+                'video_base_path': video_base_path,
+                'presignedURL': video.get('presignedURL'),  # Add presignedURL to the record
                 # Visual scores
                 'attire_score': safe_get(analysis, 'visual', 'attire', 'score'),
                 'background_score': safe_get(analysis, 'visual', 'background', 'score'),
@@ -61,12 +81,6 @@ def load_data():
     
     return pd.DataFrame(records)
 
-# Load the data
-df = load_data()
-
-df['fullName'] = df['firstName'].fillna('') + ' ' + df['lastName'].fillna('')
-candidate_names = ["All"] + sorted(df['fullName'].unique().tolist())
-
 # Title and description
 st.title("📊 Interview Analysis Dashboard")
 st.markdown("""
@@ -77,6 +91,19 @@ Use the filters on the sidebar to explore the data.
 # Sidebar filters
 st.sidebar.header("Filters")
 
+# Dataset selection
+selected_dataset = st.sidebar.radio(
+    "Select Dataset",
+    ["Baker McKenzie", "HKU"],
+    index=0  # Set Baker McKenzie as default
+)
+
+# Load the data based on selected dataset
+df = load_data(selected_dataset)
+
+df['fullName'] = df['firstName'].fillna('') + ' ' + df['lastName'].fillna('')
+candidate_names = ["All"] + sorted(df['fullName'].unique().tolist())
+
 # Filter by candidate
 selected_candidate = st.sidebar.selectbox(
     "Select Candidate",
@@ -84,10 +111,17 @@ selected_candidate = st.sidebar.selectbox(
 )
 
 # Filter by question
-selected_question = st.sidebar.selectbox(
-    "Select Question",
-    ["All"] + sorted(df['question'].unique().tolist())
-)
+if selected_dataset == "HKU" and selected_candidate != "All":
+    # For HKU, automatically get the question for the selected candidate
+    candidate_question = df[df['fullName'] == selected_candidate]['question'].iloc[0]
+    selected_question = candidate_question
+    st.sidebar.info(f"Question: {selected_question}")
+else:
+    # For Baker McKenzie, show the question selector
+    selected_question = st.sidebar.selectbox(
+        "Select Question",
+        ["All"] + sorted(df['question'].unique().tolist())
+    )
 
 # Apply filters
 if selected_candidate != "All":
@@ -193,28 +227,27 @@ with tab3:
 
 with tab4:
     if selected_candidate != "All" and selected_question != "All":
-        # Get the video file name for the selected candidate and question
+        # Get the video info for the selected candidate and question
         video_info = df_filtered[df_filtered['question'] == selected_question]
         if not video_info.empty:
-            video_file_name = video_info['fileName'].iloc[0]
-            
-            # Try to find the video in both possible locations
-            video_paths = [
-                f"baker_mckenzie_video/{video_file_name}",
-            ]
-            
-            video_found = False
-            for video_path in video_paths:
+            if selected_dataset == "HKU":
+                # Use presignedURL for HKU videos
+                video_url = video_info['presignedURL'].iloc[0]
+                try:
+                    st.video(video_url)
+                except:
+                    st.warning(f"Could not load video for {selected_candidate}'s response to: {selected_question}")
+                    st.info("Video URL: " + video_url)
+            else:
+                # Use local file path for Baker McKenzie videos
+                video_file_name = video_info['fileName'].iloc[0]
+                video_base_path = video_info['video_base_path'].iloc[0]
+                video_path = f"{video_base_path}/{video_file_name}"
                 try:
                     st.video(video_path)
-                    video_found = True
-                    break
                 except:
-                    continue
-            
-            if not video_found:
-                st.warning(f"Video file not found for {selected_candidate}'s response to: {selected_question}")
-                st.info("Available video file name: " + video_file_name)
+                    st.warning(f"Video file not found for {selected_candidate}'s response to: {selected_question}")
+                    st.info("Available video file name: " + video_file_name)
     else:
         st.info("Please select both a candidate and a question to view the video.")
 
