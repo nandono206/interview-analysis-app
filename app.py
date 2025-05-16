@@ -16,7 +16,7 @@ st.set_page_config(
 @st.cache_data
 def load_data(dataset):
     if dataset == "Baker McKenzie":
-        file_path = 'mongo_interview_analysis_grouped_10_5.json'
+        file_path = 'mongo_interview_analysis_grouped_10_5_processed.json'
         video_base_path = "baker_mckenzie_video"
     else:  # HKU
         file_path = 'hku_videos_info.json'
